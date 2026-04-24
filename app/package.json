@@ -1,0 +1,58 @@
+{
+  "name": "emoji-system-picker",
+  "version": "0.1.0",
+  "description": "System-wide emoji/sticker picker with :alias expansion",
+  "main": "electron/main.js",
+  "scripts": {
+    "postinstall": "node scripts/generate-index.mjs",
+    "index": "node scripts/generate-index.mjs",
+    "start": "electron .",
+    "build:win": "electron-builder --win nsis"
+  },
+  "dependencies": {
+    "fuse.js": "^7.0.0",
+    "node-key-sender": "^1.0.11",
+    "uiohook-napi": "^1.5.4"
+  },
+  "devDependencies": {
+    "electron": "^31.7.7",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "com.local.emojidock",
+    "productName": "Emoji Dock",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "electron/**/*",
+      "renderer/**/*",
+      "data/**/*",
+      "package.json"
+    ],
+    "extraResources": [
+      {
+        "from": "../emojis",
+        "to": "emojis"
+      }
+    ],
+    "asar": true,
+    "win": {
+      "signAndEditExecutable": false,
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        }
+      ]
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true
+    }
+  }
+}

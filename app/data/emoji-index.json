@@ -1,0 +1,4395 @@
+{
+  "generatedAt": "2026-04-24T08:35:10.121Z",
+  "total": 399,
+  "items": [
+    {
+      "alias": "19-sticker-ppg-19-bronya-01",
+      "name": "Sticker_PPG_19_Bronya_01",
+      "group": "19",
+      "path": "emojis/19/Sticker_PPG_19_Bronya_01.png",
+      "trigger": ":19-sticker-ppg-19-bronya-01",
+      "keywords": [
+        "19",
+        "sticker-ppg-19-bronya-01"
+      ]
+    },
+    {
+      "alias": "19-sticker-ppg-19-fugue-01",
+      "name": "Sticker_PPG_19_Fugue_01",
+      "group": "19",
+      "path": "emojis/19/Sticker_PPG_19_Fugue_01.png",
+      "trigger": ":19-sticker-ppg-19-fugue-01",
+      "keywords": [
+        "19",
+        "sticker-ppg-19-fugue-01"
+      ]
+    },
+    {
+      "alias": "19-sticker-ppg-19-fugue-02",
+      "name": "Sticker_PPG_19_Fugue_02",
+      "group": "19",
+      "path": "emojis/19/Sticker_PPG_19_Fugue_02.png",
+      "trigger": ":19-sticker-ppg-19-fugue-02",
+      "keywords": [
+        "19",
+        "sticker-ppg-19-fugue-02"
+      ]
+    },
+    {
+      "alias": "19-sticker-ppg-19-fugue-03",
+      "name": "Sticker_PPG_19_Fugue_03",
+      "group": "19",
+      "path": "emojis/19/Sticker_PPG_19_Fugue_03.png",
+      "trigger": ":19-sticker-ppg-19-fugue-03",
+      "keywords": [
+        "19",
+        "sticker-ppg-19-fugue-03"
+      ]
+    },
+    {
+      "alias": "19-sticker-ppg-19-fugue-04",
+      "name": "Sticker_PPG_19_Fugue_04",
+      "group": "19",
+      "path": "emojis/19/Sticker_PPG_19_Fugue_04.png",
+      "trigger": ":19-sticker-ppg-19-fugue-04",
+      "keywords": [
+        "19",
+        "sticker-ppg-19-fugue-04"
+      ]
+    },
+    {
+      "alias": "19-sticker-ppg-19-luocha-01",
+      "name": "Sticker_PPG_19_Luocha_01",
+      "group": "19",
+      "path": "emojis/19/Sticker_PPG_19_Luocha_01.png",
+      "trigger": ":19-sticker-ppg-19-luocha-01",
+      "keywords": [
+        "19",
+        "sticker-ppg-19-luocha-01"
+      ]
+    },
+    {
+      "alias": "19-sticker-ppg-19-pom-pom-01",
+      "name": "Sticker_PPG_19_Pom-Pom_01",
+      "group": "19",
+      "path": "emojis/19/Sticker_PPG_19_Pom-Pom_01.png",
+      "trigger": ":19-sticker-ppg-19-pom-pom-01",
+      "keywords": [
+        "19",
+        "sticker-ppg-19-pom-pom-01"
+      ]
+    },
+    {
+      "alias": "19-sticker-ppg-19-seele-01",
+      "name": "Sticker_PPG_19_Seele_01",
+      "group": "19",
+      "path": "emojis/19/Sticker_PPG_19_Seele_01.png",
+      "trigger": ":19-sticker-ppg-19-seele-01",
+      "keywords": [
+        "19",
+        "sticker-ppg-19-seele-01"
+      ]
+    },
+    {
+      "alias": "19-sticker-ppg-19-shush-01",
+      "name": "Sticker_PPG_19_Shush_01",
+      "group": "19",
+      "path": "emojis/19/Sticker_PPG_19_Shush_01.png",
+      "trigger": ":19-sticker-ppg-19-shush-01",
+      "keywords": [
+        "19",
+        "sticker-ppg-19-shush-01"
+      ]
+    },
+    {
+      "alias": "19-sticker-ppg-19-silver-wolf-01",
+      "name": "Sticker_PPG_19_Silver_Wolf_01",
+      "group": "19",
+      "path": "emojis/19/Sticker_PPG_19_Silver_Wolf_01.png",
+      "trigger": ":19-sticker-ppg-19-silver-wolf-01",
+      "keywords": [
+        "19",
+        "sticker-ppg-19-silver-wolf-01"
+      ]
+    },
+    {
+      "alias": "19-sticker-ppg-19-sunday-01",
+      "name": "Sticker_PPG_19_Sunday_01",
+      "group": "19",
+      "path": "emojis/19/Sticker_PPG_19_Sunday_01.png",
+      "trigger": ":19-sticker-ppg-19-sunday-01",
+      "keywords": [
+        "19",
+        "sticker-ppg-19-sunday-01"
+      ]
+    },
+    {
+      "alias": "19-sticker-ppg-19-sunday-02",
+      "name": "Sticker_PPG_19_Sunday_02",
+      "group": "19",
+      "path": "emojis/19/Sticker_PPG_19_Sunday_02.png",
+      "trigger": ":19-sticker-ppg-19-sunday-02",
+      "keywords": [
+        "19",
+        "sticker-ppg-19-sunday-02"
+      ]
+    },
+    {
+      "alias": "19-sticker-ppg-19-sunday-03",
+      "name": "Sticker_PPG_19_Sunday_03",
+      "group": "19",
+      "path": "emojis/19/Sticker_PPG_19_Sunday_03.png",
+      "trigger": ":19-sticker-ppg-19-sunday-03",
+      "keywords": [
+        "19",
+        "sticker-ppg-19-sunday-03"
+      ]
+    },
+    {
+      "alias": "19-sticker-ppg-19-sunday-04",
+      "name": "Sticker_PPG_19_Sunday_04",
+      "group": "19",
+      "path": "emojis/19/Sticker_PPG_19_Sunday_04.png",
+      "trigger": ":19-sticker-ppg-19-sunday-04",
+      "keywords": [
+        "19",
+        "sticker-ppg-19-sunday-04"
+      ]
+    },
+    {
+      "alias": "19-sticker-ppg-19-sunday-05",
+      "name": "Sticker_PPG_19_Sunday_05",
+      "group": "19",
+      "path": "emojis/19/Sticker_PPG_19_Sunday_05.png",
+      "trigger": ":19-sticker-ppg-19-sunday-05",
+      "keywords": [
+        "19",
+        "sticker-ppg-19-sunday-05"
+      ]
+    },
+    {
+      "alias": "19-sticker-ppg-19-tingyun-01",
+      "name": "Sticker_PPG_19_Tingyun_01",
+      "group": "19",
+      "path": "emojis/19/Sticker_PPG_19_Tingyun_01.png",
+      "trigger": ":19-sticker-ppg-19-tingyun-01",
+      "keywords": [
+        "19",
+        "sticker-ppg-19-tingyun-01"
+      ]
+    },
+    {
+      "alias": "20-sticker-ppg-20-aglaea-01",
+      "name": "Sticker_PPG_20_Aglaea_01",
+      "group": "20",
+      "path": "emojis/20/Sticker_PPG_20_Aglaea_01.png",
+      "trigger": ":20-sticker-ppg-20-aglaea-01",
+      "keywords": [
+        "20",
+        "sticker-ppg-20-aglaea-01"
+      ]
+    },
+    {
+      "alias": "20-sticker-ppg-20-aglaea-02",
+      "name": "Sticker_PPG_20_Aglaea_02",
+      "group": "20",
+      "path": "emojis/20/Sticker_PPG_20_Aglaea_02.png",
+      "trigger": ":20-sticker-ppg-20-aglaea-02",
+      "keywords": [
+        "20",
+        "sticker-ppg-20-aglaea-02"
+      ]
+    },
+    {
+      "alias": "20-sticker-ppg-20-aglaea-03",
+      "name": "Sticker_PPG_20_Aglaea_03",
+      "group": "20",
+      "path": "emojis/20/Sticker_PPG_20_Aglaea_03.png",
+      "trigger": ":20-sticker-ppg-20-aglaea-03",
+      "keywords": [
+        "20",
+        "sticker-ppg-20-aglaea-03"
+      ]
+    },
+    {
+      "alias": "20-sticker-ppg-20-aglaea-04",
+      "name": "Sticker_PPG_20_Aglaea_04",
+      "group": "20",
+      "path": "emojis/20/Sticker_PPG_20_Aglaea_04.png",
+      "trigger": ":20-sticker-ppg-20-aglaea-04",
+      "keywords": [
+        "20",
+        "sticker-ppg-20-aglaea-04"
+      ]
+    },
+    {
+      "alias": "20-sticker-ppg-20-caelus-01",
+      "name": "Sticker_PPG_20_Caelus_01",
+      "group": "20",
+      "path": "emojis/20/Sticker_PPG_20_Caelus_01.png",
+      "trigger": ":20-sticker-ppg-20-caelus-01",
+      "keywords": [
+        "20",
+        "sticker-ppg-20-caelus-01"
+      ]
+    },
+    {
+      "alias": "20-sticker-ppg-20-chimera-01",
+      "name": "Sticker_PPG_20_Chimera_01",
+      "group": "20",
+      "path": "emojis/20/Sticker_PPG_20_Chimera_01.png",
+      "trigger": ":20-sticker-ppg-20-chimera-01",
+      "keywords": [
+        "20",
+        "sticker-ppg-20-chimera-01"
+      ]
+    },
+    {
+      "alias": "20-sticker-ppg-20-chimera-02",
+      "name": "Sticker_PPG_20_Chimera_02",
+      "group": "20",
+      "path": "emojis/20/Sticker_PPG_20_Chimera_02.png",
+      "trigger": ":20-sticker-ppg-20-chimera-02",
+      "keywords": [
+        "20",
+        "sticker-ppg-20-chimera-02"
+      ]
+    },
+    {
+      "alias": "20-sticker-ppg-20-dromas-01",
+      "name": "Sticker_PPG_20_Dromas_01",
+      "group": "20",
+      "path": "emojis/20/Sticker_PPG_20_Dromas_01.png",
+      "trigger": ":20-sticker-ppg-20-dromas-01",
+      "keywords": [
+        "20",
+        "sticker-ppg-20-dromas-01"
+      ]
+    },
+    {
+      "alias": "20-sticker-ppg-20-other-01",
+      "name": "Sticker_PPG_20_Other_01",
+      "group": "20",
+      "path": "emojis/20/Sticker_PPG_20_Other_01.png",
+      "trigger": ":20-sticker-ppg-20-other-01",
+      "keywords": [
+        "20",
+        "sticker-ppg-20-other-01"
+      ]
+    },
+    {
+      "alias": "20-sticker-ppg-20-spirithief-bartholos-01",
+      "name": "Sticker_PPG_20_Spirithief_Bartholos_01",
+      "group": "20",
+      "path": "emojis/20/Sticker_PPG_20_Spirithief_Bartholos_01.png",
+      "trigger": ":20-sticker-ppg-20-spirithief-bartholos-01",
+      "keywords": [
+        "20",
+        "sticker-ppg-20-spirithief-bartholos-01"
+      ]
+    },
+    {
+      "alias": "20-sticker-ppg-20-stelle-01",
+      "name": "Sticker_PPG_20_Stelle_01",
+      "group": "20",
+      "path": "emojis/20/Sticker_PPG_20_Stelle_01.png",
+      "trigger": ":20-sticker-ppg-20-stelle-01",
+      "keywords": [
+        "20",
+        "sticker-ppg-20-stelle-01"
+      ]
+    },
+    {
+      "alias": "20-sticker-ppg-20-the-herta-01",
+      "name": "Sticker_PPG_20_The_Herta_01",
+      "group": "20",
+      "path": "emojis/20/Sticker_PPG_20_The_Herta_01.png",
+      "trigger": ":20-sticker-ppg-20-the-herta-01",
+      "keywords": [
+        "20",
+        "sticker-ppg-20-the-herta-01"
+      ]
+    },
+    {
+      "alias": "20-sticker-ppg-20-the-herta-02",
+      "name": "Sticker_PPG_20_The_Herta_02",
+      "group": "20",
+      "path": "emojis/20/Sticker_PPG_20_The_Herta_02.png",
+      "trigger": ":20-sticker-ppg-20-the-herta-02",
+      "keywords": [
+        "20",
+        "sticker-ppg-20-the-herta-02"
+      ]
+    },
+    {
+      "alias": "20-sticker-ppg-20-the-herta-03",
+      "name": "Sticker_PPG_20_The_Herta_03",
+      "group": "20",
+      "path": "emojis/20/Sticker_PPG_20_The_Herta_03.png",
+      "trigger": ":20-sticker-ppg-20-the-herta-03",
+      "keywords": [
+        "20",
+        "sticker-ppg-20-the-herta-03"
+      ]
+    },
+    {
+      "alias": "20-sticker-ppg-20-the-herta-04",
+      "name": "Sticker_PPG_20_The_Herta_04",
+      "group": "20",
+      "path": "emojis/20/Sticker_PPG_20_The_Herta_04.png",
+      "trigger": ":20-sticker-ppg-20-the-herta-04",
+      "keywords": [
+        "20",
+        "sticker-ppg-20-the-herta-04"
+      ]
+    },
+    {
+      "alias": "20-sticker-ppg-20-verax-leo-01",
+      "name": "Sticker_PPG_20_Verax_Leo_01",
+      "group": "20",
+      "path": "emojis/20/Sticker_PPG_20_Verax_Leo_01.png",
+      "trigger": ":20-sticker-ppg-20-verax-leo-01",
+      "keywords": [
+        "20",
+        "sticker-ppg-20-verax-leo-01"
+      ]
+    },
+    {
+      "alias": "21-sticker-ppg-21-castorice-01",
+      "name": "Sticker_PPG_21_Castorice_01",
+      "group": "21",
+      "path": "emojis/21/Sticker_PPG_21_Castorice_01.png",
+      "trigger": ":21-sticker-ppg-21-castorice-01",
+      "keywords": [
+        "21",
+        "sticker-ppg-21-castorice-01"
+      ]
+    },
+    {
+      "alias": "21-sticker-ppg-21-chimera-01",
+      "name": "Sticker_PPG_21_Chimera_01",
+      "group": "21",
+      "path": "emojis/21/Sticker_PPG_21_Chimera_01.png",
+      "trigger": ":21-sticker-ppg-21-chimera-01",
+      "keywords": [
+        "21",
+        "sticker-ppg-21-chimera-01"
+      ]
+    },
+    {
+      "alias": "21-sticker-ppg-21-chimera-02",
+      "name": "Sticker_PPG_21_Chimera_02",
+      "group": "21",
+      "path": "emojis/21/Sticker_PPG_21_Chimera_02.png",
+      "trigger": ":21-sticker-ppg-21-chimera-02",
+      "keywords": [
+        "21",
+        "sticker-ppg-21-chimera-02"
+      ]
+    },
+    {
+      "alias": "21-sticker-ppg-21-mem-01",
+      "name": "Sticker_PPG_21_Mem_01",
+      "group": "21",
+      "path": "emojis/21/Sticker_PPG_21_Mem_01.png",
+      "trigger": ":21-sticker-ppg-21-mem-01",
+      "keywords": [
+        "21",
+        "sticker-ppg-21-mem-01"
+      ]
+    },
+    {
+      "alias": "21-sticker-ppg-21-mem-02",
+      "name": "Sticker_PPG_21_Mem_02",
+      "group": "21",
+      "path": "emojis/21/Sticker_PPG_21_Mem_02.png",
+      "trigger": ":21-sticker-ppg-21-mem-02",
+      "keywords": [
+        "21",
+        "sticker-ppg-21-mem-02"
+      ]
+    },
+    {
+      "alias": "21-sticker-ppg-21-mem-03",
+      "name": "Sticker_PPG_21_Mem_03",
+      "group": "21",
+      "path": "emojis/21/Sticker_PPG_21_Mem_03.png",
+      "trigger": ":21-sticker-ppg-21-mem-03",
+      "keywords": [
+        "21",
+        "sticker-ppg-21-mem-03"
+      ]
+    },
+    {
+      "alias": "21-sticker-ppg-21-mydei-01",
+      "name": "Sticker_PPG_21_Mydei_01",
+      "group": "21",
+      "path": "emojis/21/Sticker_PPG_21_Mydei_01.png",
+      "trigger": ":21-sticker-ppg-21-mydei-01",
+      "keywords": [
+        "21",
+        "sticker-ppg-21-mydei-01"
+      ]
+    },
+    {
+      "alias": "21-sticker-ppg-21-mydei-02",
+      "name": "Sticker_PPG_21_Mydei_02",
+      "group": "21",
+      "path": "emojis/21/Sticker_PPG_21_Mydei_02.png",
+      "trigger": ":21-sticker-ppg-21-mydei-02",
+      "keywords": [
+        "21",
+        "sticker-ppg-21-mydei-02"
+      ]
+    },
+    {
+      "alias": "21-sticker-ppg-21-mydei-03",
+      "name": "Sticker_PPG_21_Mydei_03",
+      "group": "21",
+      "path": "emojis/21/Sticker_PPG_21_Mydei_03.png",
+      "trigger": ":21-sticker-ppg-21-mydei-03",
+      "keywords": [
+        "21",
+        "sticker-ppg-21-mydei-03"
+      ]
+    },
+    {
+      "alias": "21-sticker-ppg-21-mydei-04",
+      "name": "Sticker_PPG_21_Mydei_04",
+      "group": "21",
+      "path": "emojis/21/Sticker_PPG_21_Mydei_04.png",
+      "trigger": ":21-sticker-ppg-21-mydei-04",
+      "keywords": [
+        "21",
+        "sticker-ppg-21-mydei-04"
+      ]
+    },
+    {
+      "alias": "21-sticker-ppg-21-other-01",
+      "name": "Sticker_PPG_21_Other_01",
+      "group": "21",
+      "path": "emojis/21/Sticker_PPG_21_Other_01.png",
+      "trigger": ":21-sticker-ppg-21-other-01",
+      "keywords": [
+        "21",
+        "sticker-ppg-21-other-01"
+      ]
+    },
+    {
+      "alias": "21-sticker-ppg-21-phainon-01",
+      "name": "Sticker_PPG_21_Phainon_01",
+      "group": "21",
+      "path": "emojis/21/Sticker_PPG_21_Phainon_01.png",
+      "trigger": ":21-sticker-ppg-21-phainon-01",
+      "keywords": [
+        "21",
+        "sticker-ppg-21-phainon-01"
+      ]
+    },
+    {
+      "alias": "21-sticker-ppg-21-trianne-01",
+      "name": "Sticker_PPG_21_Trianne_01",
+      "group": "21",
+      "path": "emojis/21/Sticker_PPG_21_Trianne_01.png",
+      "trigger": ":21-sticker-ppg-21-trianne-01",
+      "keywords": [
+        "21",
+        "sticker-ppg-21-trianne-01"
+      ]
+    },
+    {
+      "alias": "21-sticker-ppg-21-tribbie-01",
+      "name": "Sticker_PPG_21_Tribbie_01",
+      "group": "21",
+      "path": "emojis/21/Sticker_PPG_21_Tribbie_01.png",
+      "trigger": ":21-sticker-ppg-21-tribbie-01",
+      "keywords": [
+        "21",
+        "sticker-ppg-21-tribbie-01"
+      ]
+    },
+    {
+      "alias": "21-sticker-ppg-21-tribbie-02",
+      "name": "Sticker_PPG_21_Tribbie_02",
+      "group": "21",
+      "path": "emojis/21/Sticker_PPG_21_Tribbie_02.png",
+      "trigger": ":21-sticker-ppg-21-tribbie-02",
+      "keywords": [
+        "21",
+        "sticker-ppg-21-tribbie-02"
+      ]
+    },
+    {
+      "alias": "21-sticker-ppg-21-trinnon-01",
+      "name": "Sticker_PPG_21_Trinnon_01",
+      "group": "21",
+      "path": "emojis/21/Sticker_PPG_21_Trinnon_01.png",
+      "trigger": ":21-sticker-ppg-21-trinnon-01",
+      "keywords": [
+        "21",
+        "sticker-ppg-21-trinnon-01"
+      ]
+    },
+    {
+      "alias": "22-sticker-ppg-22-anaxa-01",
+      "name": "Sticker_PPG_22_Anaxa_01",
+      "group": "22",
+      "path": "emojis/22/Sticker_PPG_22_Anaxa_01.png",
+      "trigger": ":22-sticker-ppg-22-anaxa-01",
+      "keywords": [
+        "22",
+        "sticker-ppg-22-anaxa-01"
+      ]
+    },
+    {
+      "alias": "22-sticker-ppg-22-anaxa-02",
+      "name": "Sticker_PPG_22_Anaxa_02",
+      "group": "22",
+      "path": "emojis/22/Sticker_PPG_22_Anaxa_02.png",
+      "trigger": ":22-sticker-ppg-22-anaxa-02",
+      "keywords": [
+        "22",
+        "sticker-ppg-22-anaxa-02"
+      ]
+    },
+    {
+      "alias": "22-sticker-ppg-22-anaxa-03",
+      "name": "Sticker_PPG_22_Anaxa_03",
+      "group": "22",
+      "path": "emojis/22/Sticker_PPG_22_Anaxa_03.png",
+      "trigger": ":22-sticker-ppg-22-anaxa-03",
+      "keywords": [
+        "22",
+        "sticker-ppg-22-anaxa-03"
+      ]
+    },
+    {
+      "alias": "22-sticker-ppg-22-anaxa-04",
+      "name": "Sticker_PPG_22_Anaxa_04",
+      "group": "22",
+      "path": "emojis/22/Sticker_PPG_22_Anaxa_04.png",
+      "trigger": ":22-sticker-ppg-22-anaxa-04",
+      "keywords": [
+        "22",
+        "sticker-ppg-22-anaxa-04"
+      ]
+    },
+    {
+      "alias": "22-sticker-ppg-22-castorice-01",
+      "name": "Sticker_PPG_22_Castorice_01",
+      "group": "22",
+      "path": "emojis/22/Sticker_PPG_22_Castorice_01.png",
+      "trigger": ":22-sticker-ppg-22-castorice-01",
+      "keywords": [
+        "22",
+        "sticker-ppg-22-castorice-01"
+      ]
+    },
+    {
+      "alias": "22-sticker-ppg-22-castorice-02",
+      "name": "Sticker_PPG_22_Castorice_02",
+      "group": "22",
+      "path": "emojis/22/Sticker_PPG_22_Castorice_02.png",
+      "trigger": ":22-sticker-ppg-22-castorice-02",
+      "keywords": [
+        "22",
+        "sticker-ppg-22-castorice-02"
+      ]
+    },
+    {
+      "alias": "22-sticker-ppg-22-castorice-03",
+      "name": "Sticker_PPG_22_Castorice_03",
+      "group": "22",
+      "path": "emojis/22/Sticker_PPG_22_Castorice_03.png",
+      "trigger": ":22-sticker-ppg-22-castorice-03",
+      "keywords": [
+        "22",
+        "sticker-ppg-22-castorice-03"
+      ]
+    },
+    {
+      "alias": "22-sticker-ppg-22-castorice-04",
+      "name": "Sticker_PPG_22_Castorice_04",
+      "group": "22",
+      "path": "emojis/22/Sticker_PPG_22_Castorice_04.png",
+      "trigger": ":22-sticker-ppg-22-castorice-04",
+      "keywords": [
+        "22",
+        "sticker-ppg-22-castorice-04"
+      ]
+    },
+    {
+      "alias": "22-sticker-ppg-22-cipher-01",
+      "name": "Sticker_PPG_22_Cipher_01",
+      "group": "22",
+      "path": "emojis/22/Sticker_PPG_22_Cipher_01.png",
+      "trigger": ":22-sticker-ppg-22-cipher-01",
+      "keywords": [
+        "22",
+        "sticker-ppg-22-cipher-01"
+      ]
+    },
+    {
+      "alias": "22-sticker-ppg-22-cipher-02",
+      "name": "Sticker_PPG_22_Cipher_02",
+      "group": "22",
+      "path": "emojis/22/Sticker_PPG_22_Cipher_02.png",
+      "trigger": ":22-sticker-ppg-22-cipher-02",
+      "keywords": [
+        "22",
+        "sticker-ppg-22-cipher-02"
+      ]
+    },
+    {
+      "alias": "22-sticker-ppg-22-cipher-03",
+      "name": "Sticker_PPG_22_Cipher_03",
+      "group": "22",
+      "path": "emojis/22/Sticker_PPG_22_Cipher_03.png",
+      "trigger": ":22-sticker-ppg-22-cipher-03",
+      "keywords": [
+        "22",
+        "sticker-ppg-22-cipher-03"
+      ]
+    },
+    {
+      "alias": "22-sticker-ppg-22-cipher-04",
+      "name": "Sticker_PPG_22_Cipher_04",
+      "group": "22",
+      "path": "emojis/22/Sticker_PPG_22_Cipher_04.png",
+      "trigger": ":22-sticker-ppg-22-cipher-04",
+      "keywords": [
+        "22",
+        "sticker-ppg-22-cipher-04"
+      ]
+    },
+    {
+      "alias": "22-sticker-ppg-22-hyacine-01",
+      "name": "Sticker_PPG_22_Hyacine_01",
+      "group": "22",
+      "path": "emojis/22/Sticker_PPG_22_Hyacine_01.png",
+      "trigger": ":22-sticker-ppg-22-hyacine-01",
+      "keywords": [
+        "22",
+        "sticker-ppg-22-hyacine-01"
+      ]
+    },
+    {
+      "alias": "22-sticker-ppg-22-hyacine-02",
+      "name": "Sticker_PPG_22_Hyacine_02",
+      "group": "22",
+      "path": "emojis/22/Sticker_PPG_22_Hyacine_02.png",
+      "trigger": ":22-sticker-ppg-22-hyacine-02",
+      "keywords": [
+        "22",
+        "sticker-ppg-22-hyacine-02"
+      ]
+    },
+    {
+      "alias": "22-sticker-ppg-22-hyacine-03",
+      "name": "Sticker_PPG_22_Hyacine_03",
+      "group": "22",
+      "path": "emojis/22/Sticker_PPG_22_Hyacine_03.png",
+      "trigger": ":22-sticker-ppg-22-hyacine-03",
+      "keywords": [
+        "22",
+        "sticker-ppg-22-hyacine-03"
+      ]
+    },
+    {
+      "alias": "22-sticker-ppg-22-hyacine-04",
+      "name": "Sticker_PPG_22_Hyacine_04",
+      "group": "22",
+      "path": "emojis/22/Sticker_PPG_22_Hyacine_04.png",
+      "trigger": ":22-sticker-ppg-22-hyacine-04",
+      "keywords": [
+        "22",
+        "sticker-ppg-22-hyacine-04"
+      ]
+    },
+    {
+      "alias": "23-sticker-ppg-23-cerydra-01",
+      "name": "Sticker_PPG_23_Cerydra_01",
+      "group": "23",
+      "path": "emojis/23/Sticker_PPG_23_Cerydra_01.png",
+      "trigger": ":23-sticker-ppg-23-cerydra-01",
+      "keywords": [
+        "23",
+        "sticker-ppg-23-cerydra-01"
+      ]
+    },
+    {
+      "alias": "23-sticker-ppg-23-cerydra-02",
+      "name": "Sticker_PPG_23_Cerydra_02",
+      "group": "23",
+      "path": "emojis/23/Sticker_PPG_23_Cerydra_02.png",
+      "trigger": ":23-sticker-ppg-23-cerydra-02",
+      "keywords": [
+        "23",
+        "sticker-ppg-23-cerydra-02"
+      ]
+    },
+    {
+      "alias": "23-sticker-ppg-23-cerydra-03",
+      "name": "Sticker_PPG_23_Cerydra_03",
+      "group": "23",
+      "path": "emojis/23/Sticker_PPG_23_Cerydra_03.png",
+      "trigger": ":23-sticker-ppg-23-cerydra-03",
+      "keywords": [
+        "23",
+        "sticker-ppg-23-cerydra-03"
+      ]
+    },
+    {
+      "alias": "23-sticker-ppg-23-cerydra-04",
+      "name": "Sticker_PPG_23_Cerydra_04",
+      "group": "23",
+      "path": "emojis/23/Sticker_PPG_23_Cerydra_04.png",
+      "trigger": ":23-sticker-ppg-23-cerydra-04",
+      "keywords": [
+        "23",
+        "sticker-ppg-23-cerydra-04"
+      ]
+    },
+    {
+      "alias": "23-sticker-ppg-23-hysilens-01",
+      "name": "Sticker_PPG_23_Hysilens_01",
+      "group": "23",
+      "path": "emojis/23/Sticker_PPG_23_Hysilens_01.png",
+      "trigger": ":23-sticker-ppg-23-hysilens-01",
+      "keywords": [
+        "23",
+        "sticker-ppg-23-hysilens-01"
+      ]
+    },
+    {
+      "alias": "23-sticker-ppg-23-hysilens-02",
+      "name": "Sticker_PPG_23_Hysilens_02",
+      "group": "23",
+      "path": "emojis/23/Sticker_PPG_23_Hysilens_02.png",
+      "trigger": ":23-sticker-ppg-23-hysilens-02",
+      "keywords": [
+        "23",
+        "sticker-ppg-23-hysilens-02"
+      ]
+    },
+    {
+      "alias": "23-sticker-ppg-23-hysilens-03",
+      "name": "Sticker_PPG_23_Hysilens_03",
+      "group": "23",
+      "path": "emojis/23/Sticker_PPG_23_Hysilens_03.png",
+      "trigger": ":23-sticker-ppg-23-hysilens-03",
+      "keywords": [
+        "23",
+        "sticker-ppg-23-hysilens-03"
+      ]
+    },
+    {
+      "alias": "23-sticker-ppg-23-hysilens-04",
+      "name": "Sticker_PPG_23_Hysilens_04",
+      "group": "23",
+      "path": "emojis/23/Sticker_PPG_23_Hysilens_04.png",
+      "trigger": ":23-sticker-ppg-23-hysilens-04",
+      "keywords": [
+        "23",
+        "sticker-ppg-23-hysilens-04"
+      ]
+    },
+    {
+      "alias": "23-sticker-ppg-23-mem-01",
+      "name": "Sticker_PPG_23_Mem_01",
+      "group": "23",
+      "path": "emojis/23/Sticker_PPG_23_Mem_01.png",
+      "trigger": ":23-sticker-ppg-23-mem-01",
+      "keywords": [
+        "23",
+        "sticker-ppg-23-mem-01"
+      ]
+    },
+    {
+      "alias": "23-sticker-ppg-23-mem-02",
+      "name": "Sticker_PPG_23_Mem_02",
+      "group": "23",
+      "path": "emojis/23/Sticker_PPG_23_Mem_02.png",
+      "trigger": ":23-sticker-ppg-23-mem-02",
+      "keywords": [
+        "23",
+        "sticker-ppg-23-mem-02"
+      ]
+    },
+    {
+      "alias": "23-sticker-ppg-23-mem-03",
+      "name": "Sticker_PPG_23_Mem_03",
+      "group": "23",
+      "path": "emojis/23/Sticker_PPG_23_Mem_03.png",
+      "trigger": ":23-sticker-ppg-23-mem-03",
+      "keywords": [
+        "23",
+        "sticker-ppg-23-mem-03"
+      ]
+    },
+    {
+      "alias": "23-sticker-ppg-23-phainon-01",
+      "name": "Sticker_PPG_23_Phainon_01",
+      "group": "23",
+      "path": "emojis/23/Sticker_PPG_23_Phainon_01.png",
+      "trigger": ":23-sticker-ppg-23-phainon-01",
+      "keywords": [
+        "23",
+        "sticker-ppg-23-phainon-01"
+      ]
+    },
+    {
+      "alias": "23-sticker-ppg-23-phainon-02",
+      "name": "Sticker_PPG_23_Phainon_02",
+      "group": "23",
+      "path": "emojis/23/Sticker_PPG_23_Phainon_02.png",
+      "trigger": ":23-sticker-ppg-23-phainon-02",
+      "keywords": [
+        "23",
+        "sticker-ppg-23-phainon-02"
+      ]
+    },
+    {
+      "alias": "23-sticker-ppg-23-phainon-03",
+      "name": "Sticker_PPG_23_Phainon_03",
+      "group": "23",
+      "path": "emojis/23/Sticker_PPG_23_Phainon_03.png",
+      "trigger": ":23-sticker-ppg-23-phainon-03",
+      "keywords": [
+        "23",
+        "sticker-ppg-23-phainon-03"
+      ]
+    },
+    {
+      "alias": "23-sticker-ppg-23-phainon-04",
+      "name": "Sticker_PPG_23_Phainon_04",
+      "group": "23",
+      "path": "emojis/23/Sticker_PPG_23_Phainon_04.png",
+      "trigger": ":23-sticker-ppg-23-phainon-04",
+      "keywords": [
+        "23",
+        "sticker-ppg-23-phainon-04"
+      ]
+    },
+    {
+      "alias": "23-sticker-ppg-23-phainon-05",
+      "name": "Sticker_PPG_23_Phainon_05",
+      "group": "23",
+      "path": "emojis/23/Sticker_PPG_23_Phainon_05.png",
+      "trigger": ":23-sticker-ppg-23-phainon-05",
+      "keywords": [
+        "23",
+        "sticker-ppg-23-phainon-05"
+      ]
+    },
+    {
+      "alias": "24-sticker-ppg-24-caelus-01",
+      "name": "Sticker_PPG_24_Caelus_01",
+      "group": "24",
+      "path": "emojis/24/Sticker_PPG_24_Caelus_01.png",
+      "trigger": ":24-sticker-ppg-24-caelus-01",
+      "keywords": [
+        "24",
+        "sticker-ppg-24-caelus-01"
+      ]
+    },
+    {
+      "alias": "24-sticker-ppg-24-cyrene-01",
+      "name": "Sticker_PPG_24_Cyrene_01",
+      "group": "24",
+      "path": "emojis/24/Sticker_PPG_24_Cyrene_01.png",
+      "trigger": ":24-sticker-ppg-24-cyrene-01",
+      "keywords": [
+        "24",
+        "sticker-ppg-24-cyrene-01"
+      ]
+    },
+    {
+      "alias": "24-sticker-ppg-24-cyrene-02",
+      "name": "Sticker_PPG_24_Cyrene_02",
+      "group": "24",
+      "path": "emojis/24/Sticker_PPG_24_Cyrene_02.png",
+      "trigger": ":24-sticker-ppg-24-cyrene-02",
+      "keywords": [
+        "24",
+        "sticker-ppg-24-cyrene-02"
+      ]
+    },
+    {
+      "alias": "24-sticker-ppg-24-cyrene-03",
+      "name": "Sticker_PPG_24_Cyrene_03",
+      "group": "24",
+      "path": "emojis/24/Sticker_PPG_24_Cyrene_03.png",
+      "trigger": ":24-sticker-ppg-24-cyrene-03",
+      "keywords": [
+        "24",
+        "sticker-ppg-24-cyrene-03"
+      ]
+    },
+    {
+      "alias": "24-sticker-ppg-24-cyrene-04",
+      "name": "Sticker_PPG_24_Cyrene_04",
+      "group": "24",
+      "path": "emojis/24/Sticker_PPG_24_Cyrene_04.png",
+      "trigger": ":24-sticker-ppg-24-cyrene-04",
+      "keywords": [
+        "24",
+        "sticker-ppg-24-cyrene-04"
+      ]
+    },
+    {
+      "alias": "24-sticker-ppg-24-cyrene-05",
+      "name": "Sticker_PPG_24_Cyrene_05",
+      "group": "24",
+      "path": "emojis/24/Sticker_PPG_24_Cyrene_05.png",
+      "trigger": ":24-sticker-ppg-24-cyrene-05",
+      "keywords": [
+        "24",
+        "sticker-ppg-24-cyrene-05"
+      ]
+    },
+    {
+      "alias": "24-sticker-ppg-24-dan-heng-3f-permansor-terrae-01",
+      "name": "Sticker_PPG_24_Dan_Heng_%3F_Permansor_Terrae_01",
+      "group": "24",
+      "path": "emojis/24/Sticker_PPG_24_Dan_Heng_%3F_Permansor_Terrae_01.png",
+      "trigger": ":24-sticker-ppg-24-dan-heng-3f-permansor-terrae-01",
+      "keywords": [
+        "24",
+        "sticker-ppg-24-dan-heng-3f-permansor-terrae-01"
+      ]
+    },
+    {
+      "alias": "24-sticker-ppg-24-dan-heng-3f-permansor-terrae-02",
+      "name": "Sticker_PPG_24_Dan_Heng_%3F_Permansor_Terrae_02",
+      "group": "24",
+      "path": "emojis/24/Sticker_PPG_24_Dan_Heng_%3F_Permansor_Terrae_02.png",
+      "trigger": ":24-sticker-ppg-24-dan-heng-3f-permansor-terrae-02",
+      "keywords": [
+        "24",
+        "sticker-ppg-24-dan-heng-3f-permansor-terrae-02"
+      ]
+    },
+    {
+      "alias": "24-sticker-ppg-24-dan-heng-3f-permansor-terrae-03",
+      "name": "Sticker_PPG_24_Dan_Heng_%3F_Permansor_Terrae_03",
+      "group": "24",
+      "path": "emojis/24/Sticker_PPG_24_Dan_Heng_%3F_Permansor_Terrae_03.png",
+      "trigger": ":24-sticker-ppg-24-dan-heng-3f-permansor-terrae-03",
+      "keywords": [
+        "24",
+        "sticker-ppg-24-dan-heng-3f-permansor-terrae-03"
+      ]
+    },
+    {
+      "alias": "24-sticker-ppg-24-dan-heng-3f-permansor-terrae-04",
+      "name": "Sticker_PPG_24_Dan_Heng_%3F_Permansor_Terrae_04",
+      "group": "24",
+      "path": "emojis/24/Sticker_PPG_24_Dan_Heng_%3F_Permansor_Terrae_04.png",
+      "trigger": ":24-sticker-ppg-24-dan-heng-3f-permansor-terrae-04",
+      "keywords": [
+        "24",
+        "sticker-ppg-24-dan-heng-3f-permansor-terrae-04"
+      ]
+    },
+    {
+      "alias": "24-sticker-ppg-24-evernight-01",
+      "name": "Sticker_PPG_24_Evernight_01",
+      "group": "24",
+      "path": "emojis/24/Sticker_PPG_24_Evernight_01.png",
+      "trigger": ":24-sticker-ppg-24-evernight-01",
+      "keywords": [
+        "24",
+        "sticker-ppg-24-evernight-01"
+      ]
+    },
+    {
+      "alias": "24-sticker-ppg-24-evernight-02",
+      "name": "Sticker_PPG_24_Evernight_02",
+      "group": "24",
+      "path": "emojis/24/Sticker_PPG_24_Evernight_02.png",
+      "trigger": ":24-sticker-ppg-24-evernight-02",
+      "keywords": [
+        "24",
+        "sticker-ppg-24-evernight-02"
+      ]
+    },
+    {
+      "alias": "24-sticker-ppg-24-evernight-03",
+      "name": "Sticker_PPG_24_Evernight_03",
+      "group": "24",
+      "path": "emojis/24/Sticker_PPG_24_Evernight_03.png",
+      "trigger": ":24-sticker-ppg-24-evernight-03",
+      "keywords": [
+        "24",
+        "sticker-ppg-24-evernight-03"
+      ]
+    },
+    {
+      "alias": "24-sticker-ppg-24-evernight-04",
+      "name": "Sticker_PPG_24_Evernight_04",
+      "group": "24",
+      "path": "emojis/24/Sticker_PPG_24_Evernight_04.png",
+      "trigger": ":24-sticker-ppg-24-evernight-04",
+      "keywords": [
+        "24",
+        "sticker-ppg-24-evernight-04"
+      ]
+    },
+    {
+      "alias": "24-sticker-ppg-24-screwllum-01",
+      "name": "Sticker_PPG_24_Screwllum_01",
+      "group": "24",
+      "path": "emojis/24/Sticker_PPG_24_Screwllum_01.png",
+      "trigger": ":24-sticker-ppg-24-screwllum-01",
+      "keywords": [
+        "24",
+        "sticker-ppg-24-screwllum-01"
+      ]
+    },
+    {
+      "alias": "24-sticker-ppg-24-stelle-01",
+      "name": "Sticker_PPG_24_Stelle_01",
+      "group": "24",
+      "path": "emojis/24/Sticker_PPG_24_Stelle_01.png",
+      "trigger": ":24-sticker-ppg-24-stelle-01",
+      "keywords": [
+        "24",
+        "sticker-ppg-24-stelle-01"
+      ]
+    },
+    {
+      "alias": "25-sticker-ppg-25-butterfly-cake-01",
+      "name": "Sticker_PPG_25_Butterfly_Cake_01",
+      "group": "25",
+      "path": "emojis/25/Sticker_PPG_25_Butterfly_Cake_01.png",
+      "trigger": ":25-sticker-ppg-25-butterfly-cake-01",
+      "keywords": [
+        "25",
+        "sticker-ppg-25-butterfly-cake-01"
+      ]
+    },
+    {
+      "alias": "25-sticker-ppg-25-candied-apple-01",
+      "name": "Sticker_PPG_25_Candied_Apple_01",
+      "group": "25",
+      "path": "emojis/25/Sticker_PPG_25_Candied_Apple_01.png",
+      "trigger": ":25-sticker-ppg-25-candied-apple-01",
+      "keywords": [
+        "25",
+        "sticker-ppg-25-candied-apple-01"
+      ]
+    },
+    {
+      "alias": "25-sticker-ppg-25-dux-beast-01",
+      "name": "Sticker_PPG_25_Dux_Beast_01",
+      "group": "25",
+      "path": "emojis/25/Sticker_PPG_25_Dux_Beast_01.png",
+      "trigger": ":25-sticker-ppg-25-dux-beast-01",
+      "keywords": [
+        "25",
+        "sticker-ppg-25-dux-beast-01"
+      ]
+    },
+    {
+      "alias": "25-sticker-ppg-25-fig-stew-01",
+      "name": "Sticker_PPG_25_Fig_Stew_01",
+      "group": "25",
+      "path": "emojis/25/Sticker_PPG_25_Fig_Stew_01.png",
+      "trigger": ":25-sticker-ppg-25-fig-stew-01",
+      "keywords": [
+        "25",
+        "sticker-ppg-25-fig-stew-01"
+      ]
+    },
+    {
+      "alias": "25-sticker-ppg-25-gummy-roll-01",
+      "name": "Sticker_PPG_25_Gummy_Roll_01",
+      "group": "25",
+      "path": "emojis/25/Sticker_PPG_25_Gummy_Roll_01.png",
+      "trigger": ":25-sticker-ppg-25-gummy-roll-01",
+      "keywords": [
+        "25",
+        "sticker-ppg-25-gummy-roll-01"
+      ]
+    },
+    {
+      "alias": "25-sticker-ppg-25-gurgling-fish-01",
+      "name": "Sticker_PPG_25_Gurgling_Fish_01",
+      "group": "25",
+      "path": "emojis/25/Sticker_PPG_25_Gurgling_Fish_01.png",
+      "trigger": ":25-sticker-ppg-25-gurgling-fish-01",
+      "keywords": [
+        "25",
+        "sticker-ppg-25-gurgling-fish-01"
+      ]
+    },
+    {
+      "alias": "25-sticker-ppg-25-krenabis-01",
+      "name": "Sticker_PPG_25_Krenabis_01",
+      "group": "25",
+      "path": "emojis/25/Sticker_PPG_25_Krenabis_01.png",
+      "trigger": ":25-sticker-ppg-25-krenabis-01",
+      "keywords": [
+        "25",
+        "sticker-ppg-25-krenabis-01"
+      ]
+    },
+    {
+      "alias": "25-sticker-ppg-25-master-cat-thief-01",
+      "name": "Sticker_PPG_25_Master_Cat-Thief_01",
+      "group": "25",
+      "path": "emojis/25/Sticker_PPG_25_Master_Cat-Thief_01.png",
+      "trigger": ":25-sticker-ppg-25-master-cat-thief-01",
+      "keywords": [
+        "25",
+        "sticker-ppg-25-master-cat-thief-01"
+      ]
+    },
+    {
+      "alias": "25-sticker-ppg-25-nanus-01",
+      "name": "Sticker_PPG_25_Nanus_01",
+      "group": "25",
+      "path": "emojis/25/Sticker_PPG_25_Nanus_01.png",
+      "trigger": ":25-sticker-ppg-25-nanus-01",
+      "keywords": [
+        "25",
+        "sticker-ppg-25-nanus-01"
+      ]
+    },
+    {
+      "alias": "25-sticker-ppg-25-oatmeal-01",
+      "name": "Sticker_PPG_25_Oatmeal_01",
+      "group": "25",
+      "path": "emojis/25/Sticker_PPG_25_Oatmeal_01.png",
+      "trigger": ":25-sticker-ppg-25-oatmeal-01",
+      "keywords": [
+        "25",
+        "sticker-ppg-25-oatmeal-01"
+      ]
+    },
+    {
+      "alias": "25-sticker-ppg-25-the-dahlia-01",
+      "name": "Sticker_PPG_25_The_Dahlia_01",
+      "group": "25",
+      "path": "emojis/25/Sticker_PPG_25_The_Dahlia_01.png",
+      "trigger": ":25-sticker-ppg-25-the-dahlia-01",
+      "keywords": [
+        "25",
+        "sticker-ppg-25-the-dahlia-01"
+      ]
+    },
+    {
+      "alias": "25-sticker-ppg-25-the-dahlia-02",
+      "name": "Sticker_PPG_25_The_Dahlia_02",
+      "group": "25",
+      "path": "emojis/25/Sticker_PPG_25_The_Dahlia_02.png",
+      "trigger": ":25-sticker-ppg-25-the-dahlia-02",
+      "keywords": [
+        "25",
+        "sticker-ppg-25-the-dahlia-02"
+      ]
+    },
+    {
+      "alias": "25-sticker-ppg-25-the-dahlia-03",
+      "name": "Sticker_PPG_25_The_Dahlia_03",
+      "group": "25",
+      "path": "emojis/25/Sticker_PPG_25_The_Dahlia_03.png",
+      "trigger": ":25-sticker-ppg-25-the-dahlia-03",
+      "keywords": [
+        "25",
+        "sticker-ppg-25-the-dahlia-03"
+      ]
+    },
+    {
+      "alias": "25-sticker-ppg-25-the-dahlia-04",
+      "name": "Sticker_PPG_25_The_Dahlia_04",
+      "group": "25",
+      "path": "emojis/25/Sticker_PPG_25_The_Dahlia_04.png",
+      "trigger": ":25-sticker-ppg-25-the-dahlia-04",
+      "keywords": [
+        "25",
+        "sticker-ppg-25-the-dahlia-04"
+      ]
+    },
+    {
+      "alias": "25-sticker-ppg-25-toasty-dragon-01",
+      "name": "Sticker_PPG_25_Toasty_Dragon_01",
+      "group": "25",
+      "path": "emojis/25/Sticker_PPG_25_Toasty_Dragon_01.png",
+      "trigger": ":25-sticker-ppg-25-toasty-dragon-01",
+      "keywords": [
+        "25",
+        "sticker-ppg-25-toasty-dragon-01"
+      ]
+    },
+    {
+      "alias": "25-sticker-ppg-25-vigethos-01",
+      "name": "Sticker_PPG_25_Vigethos_01",
+      "group": "25",
+      "path": "emojis/25/Sticker_PPG_25_Vigethos_01.png",
+      "trigger": ":25-sticker-ppg-25-vigethos-01",
+      "keywords": [
+        "25",
+        "sticker-ppg-25-vigethos-01"
+      ]
+    },
+    {
+      "alias": "26-sticker-ppg-26-ashveil-01",
+      "name": "Sticker_PPG_26_Ashveil_01",
+      "group": "26",
+      "path": "emojis/26/Sticker_PPG_26_Ashveil_01.png",
+      "trigger": ":26-sticker-ppg-26-ashveil-01",
+      "keywords": [
+        "26",
+        "sticker-ppg-26-ashveil-01"
+      ]
+    },
+    {
+      "alias": "26-sticker-ppg-26-ashveil-02",
+      "name": "Sticker_PPG_26_Ashveil_02",
+      "group": "26",
+      "path": "emojis/26/Sticker_PPG_26_Ashveil_02.png",
+      "trigger": ":26-sticker-ppg-26-ashveil-02",
+      "keywords": [
+        "26",
+        "sticker-ppg-26-ashveil-02"
+      ]
+    },
+    {
+      "alias": "26-sticker-ppg-26-ashveil-03",
+      "name": "Sticker_PPG_26_Ashveil_03",
+      "group": "26",
+      "path": "emojis/26/Sticker_PPG_26_Ashveil_03.png",
+      "trigger": ":26-sticker-ppg-26-ashveil-03",
+      "keywords": [
+        "26",
+        "sticker-ppg-26-ashveil-03"
+      ]
+    },
+    {
+      "alias": "26-sticker-ppg-26-ashveil-04",
+      "name": "Sticker_PPG_26_Ashveil_04",
+      "group": "26",
+      "path": "emojis/26/Sticker_PPG_26_Ashveil_04.png",
+      "trigger": ":26-sticker-ppg-26-ashveil-04",
+      "keywords": [
+        "26",
+        "sticker-ppg-26-ashveil-04"
+      ]
+    },
+    {
+      "alias": "26-sticker-ppg-26-caelus-01",
+      "name": "Sticker_PPG_26_Caelus_01",
+      "group": "26",
+      "path": "emojis/26/Sticker_PPG_26_Caelus_01.png",
+      "trigger": ":26-sticker-ppg-26-caelus-01",
+      "keywords": [
+        "26",
+        "sticker-ppg-26-caelus-01"
+      ]
+    },
+    {
+      "alias": "26-sticker-ppg-26-other-01",
+      "name": "Sticker_PPG_26_Other_01",
+      "group": "26",
+      "path": "emojis/26/Sticker_PPG_26_Other_01.png",
+      "trigger": ":26-sticker-ppg-26-other-01",
+      "keywords": [
+        "26",
+        "sticker-ppg-26-other-01"
+      ]
+    },
+    {
+      "alias": "26-sticker-ppg-26-other-02",
+      "name": "Sticker_PPG_26_Other_02",
+      "group": "26",
+      "path": "emojis/26/Sticker_PPG_26_Other_02.png",
+      "trigger": ":26-sticker-ppg-26-other-02",
+      "keywords": [
+        "26",
+        "sticker-ppg-26-other-02"
+      ]
+    },
+    {
+      "alias": "26-sticker-ppg-26-sparxie-01",
+      "name": "Sticker_PPG_26_Sparxie_01",
+      "group": "26",
+      "path": "emojis/26/Sticker_PPG_26_Sparxie_01.png",
+      "trigger": ":26-sticker-ppg-26-sparxie-01",
+      "keywords": [
+        "26",
+        "sticker-ppg-26-sparxie-01"
+      ]
+    },
+    {
+      "alias": "26-sticker-ppg-26-sparxie-02",
+      "name": "Sticker_PPG_26_Sparxie_02",
+      "group": "26",
+      "path": "emojis/26/Sticker_PPG_26_Sparxie_02.png",
+      "trigger": ":26-sticker-ppg-26-sparxie-02",
+      "keywords": [
+        "26",
+        "sticker-ppg-26-sparxie-02"
+      ]
+    },
+    {
+      "alias": "26-sticker-ppg-26-sparxie-03",
+      "name": "Sticker_PPG_26_Sparxie_03",
+      "group": "26",
+      "path": "emojis/26/Sticker_PPG_26_Sparxie_03.png",
+      "trigger": ":26-sticker-ppg-26-sparxie-03",
+      "keywords": [
+        "26",
+        "sticker-ppg-26-sparxie-03"
+      ]
+    },
+    {
+      "alias": "26-sticker-ppg-26-sparxie-04",
+      "name": "Sticker_PPG_26_Sparxie_04",
+      "group": "26",
+      "path": "emojis/26/Sticker_PPG_26_Sparxie_04.png",
+      "trigger": ":26-sticker-ppg-26-sparxie-04",
+      "keywords": [
+        "26",
+        "sticker-ppg-26-sparxie-04"
+      ]
+    },
+    {
+      "alias": "26-sticker-ppg-26-stelle-01",
+      "name": "Sticker_PPG_26_Stelle_01",
+      "group": "26",
+      "path": "emojis/26/Sticker_PPG_26_Stelle_01.png",
+      "trigger": ":26-sticker-ppg-26-stelle-01",
+      "keywords": [
+        "26",
+        "sticker-ppg-26-stelle-01"
+      ]
+    },
+    {
+      "alias": "26-sticker-ppg-26-yao-guang-01",
+      "name": "Sticker_PPG_26_Yao_Guang_01",
+      "group": "26",
+      "path": "emojis/26/Sticker_PPG_26_Yao_Guang_01.png",
+      "trigger": ":26-sticker-ppg-26-yao-guang-01",
+      "keywords": [
+        "26",
+        "sticker-ppg-26-yao-guang-01"
+      ]
+    },
+    {
+      "alias": "26-sticker-ppg-26-yao-guang-02",
+      "name": "Sticker_PPG_26_Yao_Guang_02",
+      "group": "26",
+      "path": "emojis/26/Sticker_PPG_26_Yao_Guang_02.png",
+      "trigger": ":26-sticker-ppg-26-yao-guang-02",
+      "keywords": [
+        "26",
+        "sticker-ppg-26-yao-guang-02"
+      ]
+    },
+    {
+      "alias": "26-sticker-ppg-26-yao-guang-03",
+      "name": "Sticker_PPG_26_Yao_Guang_03",
+      "group": "26",
+      "path": "emojis/26/Sticker_PPG_26_Yao_Guang_03.png",
+      "trigger": ":26-sticker-ppg-26-yao-guang-03",
+      "keywords": [
+        "26",
+        "sticker-ppg-26-yao-guang-03"
+      ]
+    },
+    {
+      "alias": "26-sticker-ppg-26-yao-guang-04",
+      "name": "Sticker_PPG_26_Yao_Guang_04",
+      "group": "26",
+      "path": "emojis/26/Sticker_PPG_26_Yao_Guang_04.png",
+      "trigger": ":26-sticker-ppg-26-yao-guang-04",
+      "keywords": [
+        "26",
+        "sticker-ppg-26-yao-guang-04"
+      ]
+    },
+    {
+      "alias": "celestial-eyes-above-mortal-ruins-asta",
+      "name": "Asta",
+      "group": "Celestial Eyes Above Mortal Ruins",
+      "path": "emojis/Celestial Eyes Above Mortal Ruins/Asta.png",
+      "trigger": ":celestial-eyes-above-mortal-ruins-asta",
+      "keywords": [
+        "celestial-eyes-above-mortal-ruins",
+        "asta"
+      ]
+    },
+    {
+      "alias": "celestial-eyes-above-mortal-ruins-bailu",
+      "name": "Bailu",
+      "group": "Celestial Eyes Above Mortal Ruins",
+      "path": "emojis/Celestial Eyes Above Mortal Ruins/Bailu.png",
+      "trigger": ":celestial-eyes-above-mortal-ruins-bailu",
+      "keywords": [
+        "celestial-eyes-above-mortal-ruins",
+        "bailu"
+      ]
+    },
+    {
+      "alias": "celestial-eyes-above-mortal-ruins-dan-heng-imbibitor-lunae-1",
+      "name": "Dan Heng Imbibitor Lunae 1",
+      "group": "Celestial Eyes Above Mortal Ruins",
+      "path": "emojis/Celestial Eyes Above Mortal Ruins/Dan Heng Imbibitor Lunae 1.png",
+      "trigger": ":celestial-eyes-above-mortal-ruins-dan-heng-imbibitor-lunae-1",
+      "keywords": [
+        "celestial-eyes-above-mortal-ruins",
+        "dan-heng-imbibitor-lunae-1"
+      ]
+    },
+    {
+      "alias": "celestial-eyes-above-mortal-ruins-dan-heng-imbibitor-lunae-2",
+      "name": "Dan Heng Imbibitor Lunae 2",
+      "group": "Celestial Eyes Above Mortal Ruins",
+      "path": "emojis/Celestial Eyes Above Mortal Ruins/Dan Heng Imbibitor Lunae 2.png",
+      "trigger": ":celestial-eyes-above-mortal-ruins-dan-heng-imbibitor-lunae-2",
+      "keywords": [
+        "celestial-eyes-above-mortal-ruins",
+        "dan-heng-imbibitor-lunae-2"
+      ]
+    },
+    {
+      "alias": "celestial-eyes-above-mortal-ruins-dan-heng-imbibitor-lunae-3",
+      "name": "Dan Heng Imbibitor Lunae 3",
+      "group": "Celestial Eyes Above Mortal Ruins",
+      "path": "emojis/Celestial Eyes Above Mortal Ruins/Dan Heng Imbibitor Lunae 3.png",
+      "trigger": ":celestial-eyes-above-mortal-ruins-dan-heng-imbibitor-lunae-3",
+      "keywords": [
+        "celestial-eyes-above-mortal-ruins",
+        "dan-heng-imbibitor-lunae-3"
+      ]
+    },
+    {
+      "alias": "celestial-eyes-above-mortal-ruins-dan-heng-imbibitor-lunae-4",
+      "name": "Dan Heng Imbibitor Lunae 4",
+      "group": "Celestial Eyes Above Mortal Ruins",
+      "path": "emojis/Celestial Eyes Above Mortal Ruins/Dan Heng Imbibitor Lunae 4.png",
+      "trigger": ":celestial-eyes-above-mortal-ruins-dan-heng-imbibitor-lunae-4",
+      "keywords": [
+        "celestial-eyes-above-mortal-ruins",
+        "dan-heng-imbibitor-lunae-4"
+      ]
+    },
+    {
+      "alias": "celestial-eyes-above-mortal-ruins-fu-xuan-1",
+      "name": "Fu Xuan 1",
+      "group": "Celestial Eyes Above Mortal Ruins",
+      "path": "emojis/Celestial Eyes Above Mortal Ruins/Fu Xuan 1.png",
+      "trigger": ":celestial-eyes-above-mortal-ruins-fu-xuan-1",
+      "keywords": [
+        "celestial-eyes-above-mortal-ruins",
+        "fu-xuan-1"
+      ]
+    },
+    {
+      "alias": "celestial-eyes-above-mortal-ruins-fu-xuan-2",
+      "name": "Fu Xuan 2",
+      "group": "Celestial Eyes Above Mortal Ruins",
+      "path": "emojis/Celestial Eyes Above Mortal Ruins/Fu Xuan 2.png",
+      "trigger": ":celestial-eyes-above-mortal-ruins-fu-xuan-2",
+      "keywords": [
+        "celestial-eyes-above-mortal-ruins",
+        "fu-xuan-2"
+      ]
+    },
+    {
+      "alias": "celestial-eyes-above-mortal-ruins-fu-xuan-3",
+      "name": "Fu Xuan 3",
+      "group": "Celestial Eyes Above Mortal Ruins",
+      "path": "emojis/Celestial Eyes Above Mortal Ruins/Fu Xuan 3.png",
+      "trigger": ":celestial-eyes-above-mortal-ruins-fu-xuan-3",
+      "keywords": [
+        "celestial-eyes-above-mortal-ruins",
+        "fu-xuan-3"
+      ]
+    },
+    {
+      "alias": "celestial-eyes-above-mortal-ruins-fu-xuan-4",
+      "name": "Fu Xuan 4",
+      "group": "Celestial Eyes Above Mortal Ruins",
+      "path": "emojis/Celestial Eyes Above Mortal Ruins/Fu Xuan 4.png",
+      "trigger": ":celestial-eyes-above-mortal-ruins-fu-xuan-4",
+      "keywords": [
+        "celestial-eyes-above-mortal-ruins",
+        "fu-xuan-4"
+      ]
+    },
+    {
+      "alias": "celestial-eyes-above-mortal-ruins-hook",
+      "name": "Hook",
+      "group": "Celestial Eyes Above Mortal Ruins",
+      "path": "emojis/Celestial Eyes Above Mortal Ruins/Hook.png",
+      "trigger": ":celestial-eyes-above-mortal-ruins-hook",
+      "keywords": [
+        "celestial-eyes-above-mortal-ruins",
+        "hook"
+      ]
+    },
+    {
+      "alias": "celestial-eyes-above-mortal-ruins-lynx-1",
+      "name": "Lynx 1",
+      "group": "Celestial Eyes Above Mortal Ruins",
+      "path": "emojis/Celestial Eyes Above Mortal Ruins/Lynx 1.png",
+      "trigger": ":celestial-eyes-above-mortal-ruins-lynx-1",
+      "keywords": [
+        "celestial-eyes-above-mortal-ruins",
+        "lynx-1"
+      ]
+    },
+    {
+      "alias": "celestial-eyes-above-mortal-ruins-lynx-2",
+      "name": "Lynx 2",
+      "group": "Celestial Eyes Above Mortal Ruins",
+      "path": "emojis/Celestial Eyes Above Mortal Ruins/Lynx 2.png",
+      "trigger": ":celestial-eyes-above-mortal-ruins-lynx-2",
+      "keywords": [
+        "celestial-eyes-above-mortal-ruins",
+        "lynx-2"
+      ]
+    },
+    {
+      "alias": "celestial-eyes-above-mortal-ruins-lynx-3",
+      "name": "Lynx 3",
+      "group": "Celestial Eyes Above Mortal Ruins",
+      "path": "emojis/Celestial Eyes Above Mortal Ruins/Lynx 3.png",
+      "trigger": ":celestial-eyes-above-mortal-ruins-lynx-3",
+      "keywords": [
+        "celestial-eyes-above-mortal-ruins",
+        "lynx-3"
+      ]
+    },
+    {
+      "alias": "celestial-eyes-above-mortal-ruins-pela",
+      "name": "Pela",
+      "group": "Celestial Eyes Above Mortal Ruins",
+      "path": "emojis/Celestial Eyes Above Mortal Ruins/Pela.png",
+      "trigger": ":celestial-eyes-above-mortal-ruins-pela",
+      "keywords": [
+        "celestial-eyes-above-mortal-ruins",
+        "pela"
+      ]
+    },
+    {
+      "alias": "celestial-eyes-above-mortal-ruins-yukong",
+      "name": "Yukong",
+      "group": "Celestial Eyes Above Mortal Ruins",
+      "path": "emojis/Celestial Eyes Above Mortal Ruins/Yukong.png",
+      "trigger": ":celestial-eyes-above-mortal-ruins-yukong",
+      "keywords": [
+        "celestial-eyes-above-mortal-ruins",
+        "yukong"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-argenti-1",
+      "name": "Argenti 1",
+      "group": "Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers/Argenti 1.png",
+      "trigger": ":honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-argenti-1",
+      "keywords": [
+        "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers",
+        "argenti-1"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-argenti-2",
+      "name": "Argenti 2",
+      "group": "Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers/Argenti 2.png",
+      "trigger": ":honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-argenti-2",
+      "keywords": [
+        "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers",
+        "argenti-2"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-argenti-3",
+      "name": "Argenti 3",
+      "group": "Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers/Argenti 3.png",
+      "trigger": ":honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-argenti-3",
+      "keywords": [
+        "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers",
+        "argenti-3"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-argenti-4",
+      "name": "Argenti 4",
+      "group": "Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers/Argenti 4.png",
+      "trigger": ":honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-argenti-4",
+      "keywords": [
+        "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers",
+        "argenti-4"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-guinaifen-1",
+      "name": "Guinaifen 1",
+      "group": "Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers/Guinaifen 1.png",
+      "trigger": ":honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-guinaifen-1",
+      "keywords": [
+        "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers",
+        "guinaifen-1"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-guinaifen-2",
+      "name": "Guinaifen 2",
+      "group": "Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers/Guinaifen 2.png",
+      "trigger": ":honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-guinaifen-2",
+      "keywords": [
+        "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers",
+        "guinaifen-2"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-hanya-1",
+      "name": "Hanya 1",
+      "group": "Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers/Hanya 1.png",
+      "trigger": ":honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-hanya-1",
+      "keywords": [
+        "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers",
+        "hanya-1"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-hanya-2",
+      "name": "Hanya 2",
+      "group": "Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers/Hanya 2.png",
+      "trigger": ":honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-hanya-2",
+      "keywords": [
+        "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers",
+        "hanya-2"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-hanya-3",
+      "name": "Hanya 3",
+      "group": "Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers/Hanya 3.png",
+      "trigger": ":honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-hanya-3",
+      "keywords": [
+        "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers",
+        "hanya-3"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-huohuo-1",
+      "name": "Huohuo 1",
+      "group": "Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers/Huohuo 1.png",
+      "trigger": ":honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-huohuo-1",
+      "keywords": [
+        "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers",
+        "huohuo-1"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-huohuo-2",
+      "name": "Huohuo 2",
+      "group": "Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers/Huohuo 2.png",
+      "trigger": ":honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-huohuo-2",
+      "keywords": [
+        "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers",
+        "huohuo-2"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-huohuo-3",
+      "name": "Huohuo 3",
+      "group": "Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers/Huohuo 3.png",
+      "trigger": ":honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-huohuo-3",
+      "keywords": [
+        "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers",
+        "huohuo-3"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-huohuo-4",
+      "name": "Huohuo 4",
+      "group": "Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers/Huohuo 4.png",
+      "trigger": ":honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-huohuo-4",
+      "keywords": [
+        "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers",
+        "huohuo-4"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-tail",
+      "name": "Tail",
+      "group": "Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers/Tail.png",
+      "trigger": ":honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-tail",
+      "keywords": [
+        "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers",
+        "tail"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-talisman",
+      "name": "Talisman",
+      "group": "Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers/Talisman.png",
+      "trigger": ":honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-talisman",
+      "keywords": [
+        "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers",
+        "talisman"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-welt",
+      "name": "Welt",
+      "group": "Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 10 _The Crepuscule Zone_ Stickers/Welt.png",
+      "trigger": ":honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers-welt",
+      "keywords": [
+        "honkai-star-rail-sticker-set-10-the-crepuscule-zone-stickers",
+        "welt"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-14-into-the-yawning-chasm-acheron-1",
+      "name": "Acheron 1",
+      "group": "Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_/Acheron 1.png",
+      "trigger": ":honkai-star-rail-sticker-set-14-into-the-yawning-chasm-acheron-1",
+      "keywords": [
+        "honkai-star-rail-sticker-set-14-into-the-yawning-chasm",
+        "acheron-1"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-14-into-the-yawning-chasm-acheron-2",
+      "name": "Acheron 2",
+      "group": "Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_/Acheron 2.png",
+      "trigger": ":honkai-star-rail-sticker-set-14-into-the-yawning-chasm-acheron-2",
+      "keywords": [
+        "honkai-star-rail-sticker-set-14-into-the-yawning-chasm",
+        "acheron-2"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-14-into-the-yawning-chasm-acheron-3",
+      "name": "Acheron 3",
+      "group": "Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_/Acheron 3.png",
+      "trigger": ":honkai-star-rail-sticker-set-14-into-the-yawning-chasm-acheron-3",
+      "keywords": [
+        "honkai-star-rail-sticker-set-14-into-the-yawning-chasm",
+        "acheron-3"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-14-into-the-yawning-chasm-acheron-4",
+      "name": "Acheron 4",
+      "group": "Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_/Acheron 4.png",
+      "trigger": ":honkai-star-rail-sticker-set-14-into-the-yawning-chasm-acheron-4",
+      "keywords": [
+        "honkai-star-rail-sticker-set-14-into-the-yawning-chasm",
+        "acheron-4"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-14-into-the-yawning-chasm-aventurine-1",
+      "name": "Aventurine 1",
+      "group": "Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_/Aventurine 1.png",
+      "trigger": ":honkai-star-rail-sticker-set-14-into-the-yawning-chasm-aventurine-1",
+      "keywords": [
+        "honkai-star-rail-sticker-set-14-into-the-yawning-chasm",
+        "aventurine-1"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-14-into-the-yawning-chasm-aventurine-2",
+      "name": "Aventurine 2",
+      "group": "Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_/Aventurine 2.png",
+      "trigger": ":honkai-star-rail-sticker-set-14-into-the-yawning-chasm-aventurine-2",
+      "keywords": [
+        "honkai-star-rail-sticker-set-14-into-the-yawning-chasm",
+        "aventurine-2"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-14-into-the-yawning-chasm-aventurine-3",
+      "name": "Aventurine 3",
+      "group": "Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_/Aventurine 3.png",
+      "trigger": ":honkai-star-rail-sticker-set-14-into-the-yawning-chasm-aventurine-3",
+      "keywords": [
+        "honkai-star-rail-sticker-set-14-into-the-yawning-chasm",
+        "aventurine-3"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-14-into-the-yawning-chasm-aventurine-4",
+      "name": "Aventurine 4",
+      "group": "Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_/Aventurine 4.png",
+      "trigger": ":honkai-star-rail-sticker-set-14-into-the-yawning-chasm-aventurine-4",
+      "keywords": [
+        "honkai-star-rail-sticker-set-14-into-the-yawning-chasm",
+        "aventurine-4"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-14-into-the-yawning-chasm-clockie",
+      "name": "Clockie",
+      "group": "Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_/Clockie.png",
+      "trigger": ":honkai-star-rail-sticker-set-14-into-the-yawning-chasm-clockie",
+      "keywords": [
+        "honkai-star-rail-sticker-set-14-into-the-yawning-chasm",
+        "clockie"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-14-into-the-yawning-chasm-dreamjolt-troupe-mr-domescreen",
+      "name": "Dreamjolt Troupe - Mr. Domescreen",
+      "group": "Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_/Dreamjolt Troupe - Mr. Domescreen.png",
+      "trigger": ":honkai-star-rail-sticker-set-14-into-the-yawning-chasm-dreamjolt-troupe-mr-domescreen",
+      "keywords": [
+        "honkai-star-rail-sticker-set-14-into-the-yawning-chasm",
+        "dreamjolt-troupe-mr-domescreen"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-14-into-the-yawning-chasm-gallagher-1",
+      "name": "Gallagher 1",
+      "group": "Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_/Gallagher 1.png",
+      "trigger": ":honkai-star-rail-sticker-set-14-into-the-yawning-chasm-gallagher-1",
+      "keywords": [
+        "honkai-star-rail-sticker-set-14-into-the-yawning-chasm",
+        "gallagher-1"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-14-into-the-yawning-chasm-gallagher-2",
+      "name": "Gallagher 2",
+      "group": "Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_/Gallagher 2.png",
+      "trigger": ":honkai-star-rail-sticker-set-14-into-the-yawning-chasm-gallagher-2",
+      "keywords": [
+        "honkai-star-rail-sticker-set-14-into-the-yawning-chasm",
+        "gallagher-2"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-14-into-the-yawning-chasm-gallagher-3",
+      "name": "Gallagher 3",
+      "group": "Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_/Gallagher 3.png",
+      "trigger": ":honkai-star-rail-sticker-set-14-into-the-yawning-chasm-gallagher-3",
+      "keywords": [
+        "honkai-star-rail-sticker-set-14-into-the-yawning-chasm",
+        "gallagher-3"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-14-into-the-yawning-chasm-hanu",
+      "name": "Hanu",
+      "group": "Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_/Hanu.png",
+      "trigger": ":honkai-star-rail-sticker-set-14-into-the-yawning-chasm-hanu",
+      "keywords": [
+        "honkai-star-rail-sticker-set-14-into-the-yawning-chasm",
+        "hanu"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-14-into-the-yawning-chasm-kakavasha",
+      "name": "Kakavasha",
+      "group": "Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_/Kakavasha.png",
+      "trigger": ":honkai-star-rail-sticker-set-14-into-the-yawning-chasm-kakavasha",
+      "keywords": [
+        "honkai-star-rail-sticker-set-14-into-the-yawning-chasm",
+        "kakavasha"
+      ]
+    },
+    {
+      "alias": "honkai-star-rail-sticker-set-14-into-the-yawning-chasm-origami-bird",
+      "name": "Origami Bird",
+      "group": "Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_",
+      "path": "emojis/Honkai_ Star Rail Sticker Set 14 _Into the Yawning Chasm_/Origami Bird.png",
+      "trigger": ":honkai-star-rail-sticker-set-14-into-the-yawning-chasm-origami-bird",
+      "keywords": [
+        "honkai-star-rail-sticker-set-14-into-the-yawning-chasm",
+        "origami-bird"
+      ]
+    },
+    {
+      "alias": "july-2023-edition-pom-pom-1",
+      "name": "Pom-Pom 1",
+      "group": "July 2023 Edition",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/July 2023 Edition/Pom-Pom 1.png",
+      "trigger": ":july-2023-edition-pom-pom-1",
+      "keywords": [
+        "july-2023-edition",
+        "pom-pom-1"
+      ]
+    },
+    {
+      "alias": "july-2023-edition-pom-pom-10",
+      "name": "Pom-Pom 10",
+      "group": "July 2023 Edition",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/July 2023 Edition/Pom-Pom 10.png",
+      "trigger": ":july-2023-edition-pom-pom-10",
+      "keywords": [
+        "july-2023-edition",
+        "pom-pom-10"
+      ]
+    },
+    {
+      "alias": "july-2023-edition-pom-pom-11",
+      "name": "Pom-Pom 11",
+      "group": "July 2023 Edition",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/July 2023 Edition/Pom-Pom 11.png",
+      "trigger": ":july-2023-edition-pom-pom-11",
+      "keywords": [
+        "july-2023-edition",
+        "pom-pom-11"
+      ]
+    },
+    {
+      "alias": "july-2023-edition-pom-pom-12",
+      "name": "Pom-Pom 12",
+      "group": "July 2023 Edition",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/July 2023 Edition/Pom-Pom 12.png",
+      "trigger": ":july-2023-edition-pom-pom-12",
+      "keywords": [
+        "july-2023-edition",
+        "pom-pom-12"
+      ]
+    },
+    {
+      "alias": "july-2023-edition-pom-pom-13",
+      "name": "Pom-Pom 13",
+      "group": "July 2023 Edition",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/July 2023 Edition/Pom-Pom 13.png",
+      "trigger": ":july-2023-edition-pom-pom-13",
+      "keywords": [
+        "july-2023-edition",
+        "pom-pom-13"
+      ]
+    },
+    {
+      "alias": "july-2023-edition-pom-pom-14",
+      "name": "Pom-Pom 14",
+      "group": "July 2023 Edition",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/July 2023 Edition/Pom-Pom 14.png",
+      "trigger": ":july-2023-edition-pom-pom-14",
+      "keywords": [
+        "july-2023-edition",
+        "pom-pom-14"
+      ]
+    },
+    {
+      "alias": "july-2023-edition-pom-pom-15",
+      "name": "Pom-Pom 15",
+      "group": "July 2023 Edition",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/July 2023 Edition/Pom-Pom 15.png",
+      "trigger": ":july-2023-edition-pom-pom-15",
+      "keywords": [
+        "july-2023-edition",
+        "pom-pom-15"
+      ]
+    },
+    {
+      "alias": "july-2023-edition-pom-pom-16",
+      "name": "Pom-Pom 16",
+      "group": "July 2023 Edition",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/July 2023 Edition/Pom-Pom 16.png",
+      "trigger": ":july-2023-edition-pom-pom-16",
+      "keywords": [
+        "july-2023-edition",
+        "pom-pom-16"
+      ]
+    },
+    {
+      "alias": "july-2023-edition-pom-pom-2",
+      "name": "Pom-Pom 2",
+      "group": "July 2023 Edition",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/July 2023 Edition/Pom-Pom 2.png",
+      "trigger": ":july-2023-edition-pom-pom-2",
+      "keywords": [
+        "july-2023-edition",
+        "pom-pom-2"
+      ]
+    },
+    {
+      "alias": "july-2023-edition-pom-pom-3",
+      "name": "Pom-Pom 3",
+      "group": "July 2023 Edition",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/July 2023 Edition/Pom-Pom 3.png",
+      "trigger": ":july-2023-edition-pom-pom-3",
+      "keywords": [
+        "july-2023-edition",
+        "pom-pom-3"
+      ]
+    },
+    {
+      "alias": "july-2023-edition-pom-pom-4",
+      "name": "Pom-Pom 4",
+      "group": "July 2023 Edition",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/July 2023 Edition/Pom-Pom 4.png",
+      "trigger": ":july-2023-edition-pom-pom-4",
+      "keywords": [
+        "july-2023-edition",
+        "pom-pom-4"
+      ]
+    },
+    {
+      "alias": "july-2023-edition-pom-pom-5",
+      "name": "Pom-Pom 5",
+      "group": "July 2023 Edition",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/July 2023 Edition/Pom-Pom 5.png",
+      "trigger": ":july-2023-edition-pom-pom-5",
+      "keywords": [
+        "july-2023-edition",
+        "pom-pom-5"
+      ]
+    },
+    {
+      "alias": "july-2023-edition-pom-pom-6",
+      "name": "Pom-Pom 6",
+      "group": "July 2023 Edition",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/July 2023 Edition/Pom-Pom 6.png",
+      "trigger": ":july-2023-edition-pom-pom-6",
+      "keywords": [
+        "july-2023-edition",
+        "pom-pom-6"
+      ]
+    },
+    {
+      "alias": "july-2023-edition-pom-pom-7",
+      "name": "Pom-Pom 7",
+      "group": "July 2023 Edition",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/July 2023 Edition/Pom-Pom 7.png",
+      "trigger": ":july-2023-edition-pom-pom-7",
+      "keywords": [
+        "july-2023-edition",
+        "pom-pom-7"
+      ]
+    },
+    {
+      "alias": "july-2023-edition-pom-pom-8",
+      "name": "Pom-Pom 8",
+      "group": "July 2023 Edition",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/July 2023 Edition/Pom-Pom 8.png",
+      "trigger": ":july-2023-edition-pom-pom-8",
+      "keywords": [
+        "july-2023-edition",
+        "pom-pom-8"
+      ]
+    },
+    {
+      "alias": "july-2023-edition-pom-pom-9",
+      "name": "Pom-Pom 9",
+      "group": "July 2023 Edition",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/July 2023 Edition/Pom-Pom 9.png",
+      "trigger": ":july-2023-edition-pom-pom-9",
+      "keywords": [
+        "july-2023-edition",
+        "pom-pom-9"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-boothill-1",
+      "name": "Boothill 1",
+      "group": "Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18",
+      "path": "emojis/Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18/Boothill 1.png",
+      "trigger": ":pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-boothill-1",
+      "keywords": [
+        "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18",
+        "boothill-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-boothill-2",
+      "name": "Boothill 2",
+      "group": "Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18",
+      "path": "emojis/Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18/Boothill 2.png",
+      "trigger": ":pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-boothill-2",
+      "keywords": [
+        "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18",
+        "boothill-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-caelus",
+      "name": "Caelus",
+      "group": "Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18",
+      "path": "emojis/Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18/Caelus.png",
+      "trigger": ":pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-caelus",
+      "keywords": [
+        "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18",
+        "caelus"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-dan-heng",
+      "name": "Dan Heng",
+      "group": "Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18",
+      "path": "emojis/Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18/Dan Heng.png",
+      "trigger": ":pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-dan-heng",
+      "keywords": [
+        "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18",
+        "dan-heng"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-mr-reca",
+      "name": "Mr. Reca",
+      "group": "Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18",
+      "path": "emojis/Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18/Mr. Reca.png",
+      "trigger": ":pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-mr-reca",
+      "keywords": [
+        "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18",
+        "mr-reca"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-mr-reca-and-assistant-director",
+      "name": "Mr. Reca and _Assistant Director_",
+      "group": "Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18",
+      "path": "emojis/Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18/Mr. Reca and _Assistant Director_.png",
+      "trigger": ":pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-mr-reca-and-assistant-director",
+      "keywords": [
+        "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18",
+        "mr-reca-and-assistant-director"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-mr-reca-s-assistant-director",
+      "name": "Mr. Reca_s _Assistant Director_",
+      "group": "Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18",
+      "path": "emojis/Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18/Mr. Reca_s _Assistant Director_.png",
+      "trigger": ":pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-mr-reca-s-assistant-director",
+      "keywords": [
+        "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18",
+        "mr-reca-s-assistant-director"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-rappa-1",
+      "name": "Rappa 1",
+      "group": "Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18",
+      "path": "emojis/Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18/Rappa 1.png",
+      "trigger": ":pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-rappa-1",
+      "keywords": [
+        "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18",
+        "rappa-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-rappa-2",
+      "name": "Rappa 2",
+      "group": "Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18",
+      "path": "emojis/Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18/Rappa 2.png",
+      "trigger": ":pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-rappa-2",
+      "keywords": [
+        "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18",
+        "rappa-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-rappa-3",
+      "name": "Rappa 3",
+      "group": "Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18",
+      "path": "emojis/Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18/Rappa 3.png",
+      "trigger": ":pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-rappa-3",
+      "keywords": [
+        "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18",
+        "rappa-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-rappa-4",
+      "name": "Rappa 4",
+      "group": "Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18",
+      "path": "emojis/Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18/Rappa 4.png",
+      "trigger": ":pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-rappa-4",
+      "keywords": [
+        "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18",
+        "rappa-4"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-robin",
+      "name": "Robin",
+      "group": "Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18",
+      "path": "emojis/Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18/Robin.png",
+      "trigger": ":pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-robin",
+      "keywords": [
+        "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18",
+        "robin"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-slumbernana-monkey-1",
+      "name": "Slumbernana Monkey 1",
+      "group": "Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18",
+      "path": "emojis/Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18/Slumbernana Monkey 1.png",
+      "trigger": ":pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-slumbernana-monkey-1",
+      "keywords": [
+        "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18",
+        "slumbernana-monkey-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-slumbernana-monkey-2",
+      "name": "Slumbernana Monkey 2",
+      "group": "Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18",
+      "path": "emojis/Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18/Slumbernana Monkey 2.png",
+      "trigger": ":pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-slumbernana-monkey-2",
+      "keywords": [
+        "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18",
+        "slumbernana-monkey-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-slumbernana-monkey-3",
+      "name": "Slumbernana Monkey 3",
+      "group": "Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18",
+      "path": "emojis/Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18/Slumbernana Monkey 3.png",
+      "trigger": ":pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-slumbernana-monkey-3",
+      "keywords": [
+        "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18",
+        "slumbernana-monkey-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-stelle",
+      "name": "Stelle",
+      "group": "Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18",
+      "path": "emojis/Pom-Pom Gallery - Annals of Pinecany_s Mappou Age Set 18/Stelle.png",
+      "trigger": ":pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18-stelle",
+      "keywords": [
+        "pom-pom-gallery-annals-of-pinecany-s-mappou-age-set-18",
+        "stelle"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-crown-of-the-mundane-and-divine-critter",
+      "name": "Critter",
+      "group": "Pom-Pom Gallery _ Crown of the Mundane and Divine",
+      "path": "emojis/Pom-Pom Gallery _ Crown of the Mundane and Divine/Critter.png",
+      "trigger": ":pom-pom-gallery-crown-of-the-mundane-and-divine-critter",
+      "keywords": [
+        "pom-pom-gallery-crown-of-the-mundane-and-divine",
+        "critter"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-crown-of-the-mundane-and-divine-dr-ratio-1",
+      "name": "Dr. Ratio 1",
+      "group": "Pom-Pom Gallery _ Crown of the Mundane and Divine",
+      "path": "emojis/Pom-Pom Gallery _ Crown of the Mundane and Divine/Dr. Ratio 1.png",
+      "trigger": ":pom-pom-gallery-crown-of-the-mundane-and-divine-dr-ratio-1",
+      "keywords": [
+        "pom-pom-gallery-crown-of-the-mundane-and-divine",
+        "dr-ratio-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-crown-of-the-mundane-and-divine-dr-ratio-2",
+      "name": "Dr. Ratio 2",
+      "group": "Pom-Pom Gallery _ Crown of the Mundane and Divine",
+      "path": "emojis/Pom-Pom Gallery _ Crown of the Mundane and Divine/Dr. Ratio 2.png",
+      "trigger": ":pom-pom-gallery-crown-of-the-mundane-and-divine-dr-ratio-2",
+      "keywords": [
+        "pom-pom-gallery-crown-of-the-mundane-and-divine",
+        "dr-ratio-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-crown-of-the-mundane-and-divine-dr-ratio-3",
+      "name": "Dr. Ratio 3",
+      "group": "Pom-Pom Gallery _ Crown of the Mundane and Divine",
+      "path": "emojis/Pom-Pom Gallery _ Crown of the Mundane and Divine/Dr. Ratio 3.png",
+      "trigger": ":pom-pom-gallery-crown-of-the-mundane-and-divine-dr-ratio-3",
+      "keywords": [
+        "pom-pom-gallery-crown-of-the-mundane-and-divine",
+        "dr-ratio-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-crown-of-the-mundane-and-divine-dr-ratio-4",
+      "name": "Dr. Ratio 4",
+      "group": "Pom-Pom Gallery _ Crown of the Mundane and Divine",
+      "path": "emojis/Pom-Pom Gallery _ Crown of the Mundane and Divine/Dr. Ratio 4.png",
+      "trigger": ":pom-pom-gallery-crown-of-the-mundane-and-divine-dr-ratio-4",
+      "keywords": [
+        "pom-pom-gallery-crown-of-the-mundane-and-divine",
+        "dr-ratio-4"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-crown-of-the-mundane-and-divine-herta",
+      "name": "Herta",
+      "group": "Pom-Pom Gallery _ Crown of the Mundane and Divine",
+      "path": "emojis/Pom-Pom Gallery _ Crown of the Mundane and Divine/Herta.png",
+      "trigger": ":pom-pom-gallery-crown-of-the-mundane-and-divine-herta",
+      "keywords": [
+        "pom-pom-gallery-crown-of-the-mundane-and-divine",
+        "herta"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-crown-of-the-mundane-and-divine-himeko",
+      "name": "Himeko",
+      "group": "Pom-Pom Gallery _ Crown of the Mundane and Divine",
+      "path": "emojis/Pom-Pom Gallery _ Crown of the Mundane and Divine/Himeko.png",
+      "trigger": ":pom-pom-gallery-crown-of-the-mundane-and-divine-himeko",
+      "keywords": [
+        "pom-pom-gallery-crown-of-the-mundane-and-divine",
+        "himeko"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-crown-of-the-mundane-and-divine-peppy",
+      "name": "Peppy",
+      "group": "Pom-Pom Gallery _ Crown of the Mundane and Divine",
+      "path": "emojis/Pom-Pom Gallery _ Crown of the Mundane and Divine/Peppy.png",
+      "trigger": ":pom-pom-gallery-crown-of-the-mundane-and-divine-peppy",
+      "keywords": [
+        "pom-pom-gallery-crown-of-the-mundane-and-divine",
+        "peppy"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-crown-of-the-mundane-and-divine-ruan-mei-1",
+      "name": "Ruan Mei 1",
+      "group": "Pom-Pom Gallery _ Crown of the Mundane and Divine",
+      "path": "emojis/Pom-Pom Gallery _ Crown of the Mundane and Divine/Ruan Mei 1.png",
+      "trigger": ":pom-pom-gallery-crown-of-the-mundane-and-divine-ruan-mei-1",
+      "keywords": [
+        "pom-pom-gallery-crown-of-the-mundane-and-divine",
+        "ruan-mei-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-crown-of-the-mundane-and-divine-ruan-mei-2",
+      "name": "Ruan Mei 2",
+      "group": "Pom-Pom Gallery _ Crown of the Mundane and Divine",
+      "path": "emojis/Pom-Pom Gallery _ Crown of the Mundane and Divine/Ruan Mei 2.png",
+      "trigger": ":pom-pom-gallery-crown-of-the-mundane-and-divine-ruan-mei-2",
+      "keywords": [
+        "pom-pom-gallery-crown-of-the-mundane-and-divine",
+        "ruan-mei-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-crown-of-the-mundane-and-divine-ruan-mei-3",
+      "name": "Ruan Mei 3",
+      "group": "Pom-Pom Gallery _ Crown of the Mundane and Divine",
+      "path": "emojis/Pom-Pom Gallery _ Crown of the Mundane and Divine/Ruan Mei 3.png",
+      "trigger": ":pom-pom-gallery-crown-of-the-mundane-and-divine-ruan-mei-3",
+      "keywords": [
+        "pom-pom-gallery-crown-of-the-mundane-and-divine",
+        "ruan-mei-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-crown-of-the-mundane-and-divine-ruan-mei-4",
+      "name": "Ruan Mei 4",
+      "group": "Pom-Pom Gallery _ Crown of the Mundane and Divine",
+      "path": "emojis/Pom-Pom Gallery _ Crown of the Mundane and Divine/Ruan Mei 4.png",
+      "trigger": ":pom-pom-gallery-crown-of-the-mundane-and-divine-ruan-mei-4",
+      "keywords": [
+        "pom-pom-gallery-crown-of-the-mundane-and-divine",
+        "ruan-mei-4"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-crown-of-the-mundane-and-divine-screwllum",
+      "name": "Screwllum",
+      "group": "Pom-Pom Gallery _ Crown of the Mundane and Divine",
+      "path": "emojis/Pom-Pom Gallery _ Crown of the Mundane and Divine/Screwllum.png",
+      "trigger": ":pom-pom-gallery-crown-of-the-mundane-and-divine-screwllum",
+      "keywords": [
+        "pom-pom-gallery-crown-of-the-mundane-and-divine",
+        "screwllum"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-crown-of-the-mundane-and-divine-xueyi-1",
+      "name": "Xueyi 1",
+      "group": "Pom-Pom Gallery _ Crown of the Mundane and Divine",
+      "path": "emojis/Pom-Pom Gallery _ Crown of the Mundane and Divine/Xueyi 1.png",
+      "trigger": ":pom-pom-gallery-crown-of-the-mundane-and-divine-xueyi-1",
+      "keywords": [
+        "pom-pom-gallery-crown-of-the-mundane-and-divine",
+        "xueyi-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-crown-of-the-mundane-and-divine-xueyi-2",
+      "name": "Xueyi 2",
+      "group": "Pom-Pom Gallery _ Crown of the Mundane and Divine",
+      "path": "emojis/Pom-Pom Gallery _ Crown of the Mundane and Divine/Xueyi 2.png",
+      "trigger": ":pom-pom-gallery-crown-of-the-mundane-and-divine-xueyi-2",
+      "keywords": [
+        "pom-pom-gallery-crown-of-the-mundane-and-divine",
+        "xueyi-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-crown-of-the-mundane-and-divine-xueyi-3",
+      "name": "Xueyi 3",
+      "group": "Pom-Pom Gallery _ Crown of the Mundane and Divine",
+      "path": "emojis/Pom-Pom Gallery _ Crown of the Mundane and Divine/Xueyi 3.png",
+      "trigger": ":pom-pom-gallery-crown-of-the-mundane-and-divine-xueyi-3",
+      "keywords": [
+        "pom-pom-gallery-crown-of-the-mundane-and-divine",
+        "xueyi-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-even-immortality-ends-arlan",
+      "name": "Arlan",
+      "group": "Pom-Pom Gallery - Even Immortality Ends",
+      "path": "emojis/Pom-Pom Gallery - Even Immortality Ends/Arlan.png",
+      "trigger": ":pom-pom-gallery-even-immortality-ends-arlan",
+      "keywords": [
+        "pom-pom-gallery-even-immortality-ends",
+        "arlan"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-even-immortality-ends-blade-1",
+      "name": "Blade 1",
+      "group": "Pom-Pom Gallery - Even Immortality Ends",
+      "path": "emojis/Pom-Pom Gallery - Even Immortality Ends/Blade 1.png",
+      "trigger": ":pom-pom-gallery-even-immortality-ends-blade-1",
+      "keywords": [
+        "pom-pom-gallery-even-immortality-ends",
+        "blade-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-even-immortality-ends-blade-2",
+      "name": "Blade 2",
+      "group": "Pom-Pom Gallery - Even Immortality Ends",
+      "path": "emojis/Pom-Pom Gallery - Even Immortality Ends/Blade 2.png",
+      "trigger": ":pom-pom-gallery-even-immortality-ends-blade-2",
+      "keywords": [
+        "pom-pom-gallery-even-immortality-ends",
+        "blade-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-even-immortality-ends-blade-3",
+      "name": "Blade 3",
+      "group": "Pom-Pom Gallery - Even Immortality Ends",
+      "path": "emojis/Pom-Pom Gallery - Even Immortality Ends/Blade 3.png",
+      "trigger": ":pom-pom-gallery-even-immortality-ends-blade-3",
+      "keywords": [
+        "pom-pom-gallery-even-immortality-ends",
+        "blade-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-even-immortality-ends-blade-4",
+      "name": "Blade 4",
+      "group": "Pom-Pom Gallery - Even Immortality Ends",
+      "path": "emojis/Pom-Pom Gallery - Even Immortality Ends/Blade 4.png",
+      "trigger": ":pom-pom-gallery-even-immortality-ends-blade-4",
+      "keywords": [
+        "pom-pom-gallery-even-immortality-ends",
+        "blade-4"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-even-immortality-ends-kafka-1",
+      "name": "Kafka 1",
+      "group": "Pom-Pom Gallery - Even Immortality Ends",
+      "path": "emojis/Pom-Pom Gallery - Even Immortality Ends/Kafka 1.png",
+      "trigger": ":pom-pom-gallery-even-immortality-ends-kafka-1",
+      "keywords": [
+        "pom-pom-gallery-even-immortality-ends",
+        "kafka-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-even-immortality-ends-kafka-2",
+      "name": "Kafka 2",
+      "group": "Pom-Pom Gallery - Even Immortality Ends",
+      "path": "emojis/Pom-Pom Gallery - Even Immortality Ends/Kafka 2.png",
+      "trigger": ":pom-pom-gallery-even-immortality-ends-kafka-2",
+      "keywords": [
+        "pom-pom-gallery-even-immortality-ends",
+        "kafka-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-even-immortality-ends-kafka-3",
+      "name": "Kafka 3",
+      "group": "Pom-Pom Gallery - Even Immortality Ends",
+      "path": "emojis/Pom-Pom Gallery - Even Immortality Ends/Kafka 3.png",
+      "trigger": ":pom-pom-gallery-even-immortality-ends-kafka-3",
+      "keywords": [
+        "pom-pom-gallery-even-immortality-ends",
+        "kafka-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-even-immortality-ends-kafka-4",
+      "name": "Kafka 4",
+      "group": "Pom-Pom Gallery - Even Immortality Ends",
+      "path": "emojis/Pom-Pom Gallery - Even Immortality Ends/Kafka 4.png",
+      "trigger": ":pom-pom-gallery-even-immortality-ends-kafka-4",
+      "keywords": [
+        "pom-pom-gallery-even-immortality-ends",
+        "kafka-4"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-even-immortality-ends-luka-1",
+      "name": "Luka 1",
+      "group": "Pom-Pom Gallery - Even Immortality Ends",
+      "path": "emojis/Pom-Pom Gallery - Even Immortality Ends/Luka 1.png",
+      "trigger": ":pom-pom-gallery-even-immortality-ends-luka-1",
+      "keywords": [
+        "pom-pom-gallery-even-immortality-ends",
+        "luka-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-even-immortality-ends-luka-2",
+      "name": "Luka 2",
+      "group": "Pom-Pom Gallery - Even Immortality Ends",
+      "path": "emojis/Pom-Pom Gallery - Even Immortality Ends/Luka 2.png",
+      "trigger": ":pom-pom-gallery-even-immortality-ends-luka-2",
+      "keywords": [
+        "pom-pom-gallery-even-immortality-ends",
+        "luka-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-even-immortality-ends-luka-3",
+      "name": "Luka 3",
+      "group": "Pom-Pom Gallery - Even Immortality Ends",
+      "path": "emojis/Pom-Pom Gallery - Even Immortality Ends/Luka 3.png",
+      "trigger": ":pom-pom-gallery-even-immortality-ends-luka-3",
+      "keywords": [
+        "pom-pom-gallery-even-immortality-ends",
+        "luka-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-even-immortality-ends-natasha",
+      "name": "Natasha",
+      "group": "Pom-Pom Gallery - Even Immortality Ends",
+      "path": "emojis/Pom-Pom Gallery - Even Immortality Ends/Natasha.png",
+      "trigger": ":pom-pom-gallery-even-immortality-ends-natasha",
+      "keywords": [
+        "pom-pom-gallery-even-immortality-ends",
+        "natasha"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-even-immortality-ends-sampo",
+      "name": "Sampo",
+      "group": "Pom-Pom Gallery - Even Immortality Ends",
+      "path": "emojis/Pom-Pom Gallery - Even Immortality Ends/Sampo.png",
+      "trigger": ":pom-pom-gallery-even-immortality-ends-sampo",
+      "keywords": [
+        "pom-pom-gallery-even-immortality-ends",
+        "sampo"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-even-immortality-ends-serval",
+      "name": "Serval",
+      "group": "Pom-Pom Gallery - Even Immortality Ends",
+      "path": "emojis/Pom-Pom Gallery - Even Immortality Ends/Serval.png",
+      "trigger": ":pom-pom-gallery-even-immortality-ends-serval",
+      "keywords": [
+        "pom-pom-gallery-even-immortality-ends",
+        "serval"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-even-immortality-ends-sushang",
+      "name": "Sushang",
+      "group": "Pom-Pom Gallery - Even Immortality Ends",
+      "path": "emojis/Pom-Pom Gallery - Even Immortality Ends/Sushang.png",
+      "trigger": ":pom-pom-gallery-even-immortality-ends-sushang",
+      "keywords": [
+        "pom-pom-gallery-even-immortality-ends",
+        "sushang"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-farewell-penacony-set-15-bronya",
+      "name": "Bronya",
+      "group": "Pom-Pom Gallery - Farewell, Penacony Set 15",
+      "path": "emojis/Pom-Pom Gallery - Farewell, Penacony Set 15/Bronya.png",
+      "trigger": ":pom-pom-gallery-farewell-penacony-set-15-bronya",
+      "keywords": [
+        "pom-pom-gallery-farewell-penacony-set-15",
+        "bronya"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-farewell-penacony-set-15-firefly-1",
+      "name": "Firefly 1",
+      "group": "Pom-Pom Gallery - Farewell, Penacony Set 15",
+      "path": "emojis/Pom-Pom Gallery - Farewell, Penacony Set 15/Firefly 1.png",
+      "trigger": ":pom-pom-gallery-farewell-penacony-set-15-firefly-1",
+      "keywords": [
+        "pom-pom-gallery-farewell-penacony-set-15",
+        "firefly-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-farewell-penacony-set-15-firefly-2",
+      "name": "Firefly 2",
+      "group": "Pom-Pom Gallery - Farewell, Penacony Set 15",
+      "path": "emojis/Pom-Pom Gallery - Farewell, Penacony Set 15/Firefly 2.png",
+      "trigger": ":pom-pom-gallery-farewell-penacony-set-15-firefly-2",
+      "keywords": [
+        "pom-pom-gallery-farewell-penacony-set-15",
+        "firefly-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-farewell-penacony-set-15-firefly-3",
+      "name": "Firefly 3",
+      "group": "Pom-Pom Gallery - Farewell, Penacony Set 15",
+      "path": "emojis/Pom-Pom Gallery - Farewell, Penacony Set 15/Firefly 3.png",
+      "trigger": ":pom-pom-gallery-farewell-penacony-set-15-firefly-3",
+      "keywords": [
+        "pom-pom-gallery-farewell-penacony-set-15",
+        "firefly-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-farewell-penacony-set-15-firefly-4",
+      "name": "Firefly 4",
+      "group": "Pom-Pom Gallery - Farewell, Penacony Set 15",
+      "path": "emojis/Pom-Pom Gallery - Farewell, Penacony Set 15/Firefly 4.png",
+      "trigger": ":pom-pom-gallery-farewell-penacony-set-15-firefly-4",
+      "keywords": [
+        "pom-pom-gallery-farewell-penacony-set-15",
+        "firefly-4"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-farewell-penacony-set-15-herta",
+      "name": "Herta",
+      "group": "Pom-Pom Gallery - Farewell, Penacony Set 15",
+      "path": "emojis/Pom-Pom Gallery - Farewell, Penacony Set 15/Herta.png",
+      "trigger": ":pom-pom-gallery-farewell-penacony-set-15-herta",
+      "keywords": [
+        "pom-pom-gallery-farewell-penacony-set-15",
+        "herta"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-farewell-penacony-set-15-jade-1",
+      "name": "Jade 1",
+      "group": "Pom-Pom Gallery - Farewell, Penacony Set 15",
+      "path": "emojis/Pom-Pom Gallery - Farewell, Penacony Set 15/Jade 1.png",
+      "trigger": ":pom-pom-gallery-farewell-penacony-set-15-jade-1",
+      "keywords": [
+        "pom-pom-gallery-farewell-penacony-set-15",
+        "jade-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-farewell-penacony-set-15-jade-2",
+      "name": "Jade 2",
+      "group": "Pom-Pom Gallery - Farewell, Penacony Set 15",
+      "path": "emojis/Pom-Pom Gallery - Farewell, Penacony Set 15/Jade 2.png",
+      "trigger": ":pom-pom-gallery-farewell-penacony-set-15-jade-2",
+      "keywords": [
+        "pom-pom-gallery-farewell-penacony-set-15",
+        "jade-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-farewell-penacony-set-15-jade-3",
+      "name": "Jade 3",
+      "group": "Pom-Pom Gallery - Farewell, Penacony Set 15",
+      "path": "emojis/Pom-Pom Gallery - Farewell, Penacony Set 15/Jade 3.png",
+      "trigger": ":pom-pom-gallery-farewell-penacony-set-15-jade-3",
+      "keywords": [
+        "pom-pom-gallery-farewell-penacony-set-15",
+        "jade-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-farewell-penacony-set-15-jade-4",
+      "name": "Jade 4",
+      "group": "Pom-Pom Gallery - Farewell, Penacony Set 15",
+      "path": "emojis/Pom-Pom Gallery - Farewell, Penacony Set 15/Jade 4.png",
+      "trigger": ":pom-pom-gallery-farewell-penacony-set-15-jade-4",
+      "keywords": [
+        "pom-pom-gallery-farewell-penacony-set-15",
+        "jade-4"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-farewell-penacony-set-15-mikhail",
+      "name": "Mikhail",
+      "group": "Pom-Pom Gallery - Farewell, Penacony Set 15",
+      "path": "emojis/Pom-Pom Gallery - Farewell, Penacony Set 15/Mikhail.png",
+      "trigger": ":pom-pom-gallery-farewell-penacony-set-15-mikhail",
+      "keywords": [
+        "pom-pom-gallery-farewell-penacony-set-15",
+        "mikhail"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-farewell-penacony-set-15-pom-pom",
+      "name": "Pom-Pom",
+      "group": "Pom-Pom Gallery - Farewell, Penacony Set 15",
+      "path": "emojis/Pom-Pom Gallery - Farewell, Penacony Set 15/Pom-Pom.png",
+      "trigger": ":pom-pom-gallery-farewell-penacony-set-15-pom-pom",
+      "keywords": [
+        "pom-pom-gallery-farewell-penacony-set-15",
+        "pom-pom"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-farewell-penacony-set-15-sparkle-1",
+      "name": "Sparkle 1",
+      "group": "Pom-Pom Gallery - Farewell, Penacony Set 15",
+      "path": "emojis/Pom-Pom Gallery - Farewell, Penacony Set 15/Sparkle 1.png",
+      "trigger": ":pom-pom-gallery-farewell-penacony-set-15-sparkle-1",
+      "keywords": [
+        "pom-pom-gallery-farewell-penacony-set-15",
+        "sparkle-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-farewell-penacony-set-15-sparkle-2",
+      "name": "Sparkle 2",
+      "group": "Pom-Pom Gallery - Farewell, Penacony Set 15",
+      "path": "emojis/Pom-Pom Gallery - Farewell, Penacony Set 15/Sparkle 2.png",
+      "trigger": ":pom-pom-gallery-farewell-penacony-set-15-sparkle-2",
+      "keywords": [
+        "pom-pom-gallery-farewell-penacony-set-15",
+        "sparkle-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-farewell-penacony-set-15-sunday",
+      "name": "Sunday",
+      "group": "Pom-Pom Gallery - Farewell, Penacony Set 15",
+      "path": "emojis/Pom-Pom Gallery - Farewell, Penacony Set 15/Sunday.png",
+      "trigger": ":pom-pom-gallery-farewell-penacony-set-15-sunday",
+      "keywords": [
+        "pom-pom-gallery-farewell-penacony-set-15",
+        "sunday"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-farewell-penacony-set-15-topaz",
+      "name": "Topaz",
+      "group": "Pom-Pom Gallery - Farewell, Penacony Set 15",
+      "path": "emojis/Pom-Pom Gallery - Farewell, Penacony Set 15/Topaz.png",
+      "trigger": ":pom-pom-gallery-farewell-penacony-set-15-topaz",
+      "keywords": [
+        "pom-pom-gallery-farewell-penacony-set-15",
+        "topaz"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-final-closed-beta-bailu-1",
+      "name": "Bailu 1",
+      "group": "Pom-Pom Gallery_ Final Closed Beta",
+      "path": "emojis/Pom-Pom Gallery_ Final Closed Beta/Bailu 1.png",
+      "trigger": ":pom-pom-gallery-final-closed-beta-bailu-1",
+      "keywords": [
+        "pom-pom-gallery-final-closed-beta",
+        "bailu-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-final-closed-beta-bailu-2",
+      "name": "Bailu 2",
+      "group": "Pom-Pom Gallery_ Final Closed Beta",
+      "path": "emojis/Pom-Pom Gallery_ Final Closed Beta/Bailu 2.png",
+      "trigger": ":pom-pom-gallery-final-closed-beta-bailu-2",
+      "keywords": [
+        "pom-pom-gallery-final-closed-beta",
+        "bailu-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-final-closed-beta-blade",
+      "name": "Blade",
+      "group": "Pom-Pom Gallery_ Final Closed Beta",
+      "path": "emojis/Pom-Pom Gallery_ Final Closed Beta/Blade.png",
+      "trigger": ":pom-pom-gallery-final-closed-beta-blade",
+      "keywords": [
+        "pom-pom-gallery-final-closed-beta",
+        "blade"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-final-closed-beta-jing-yuan-1",
+      "name": "Jing Yuan 1",
+      "group": "Pom-Pom Gallery_ Final Closed Beta",
+      "path": "emojis/Pom-Pom Gallery_ Final Closed Beta/Jing Yuan 1.png",
+      "trigger": ":pom-pom-gallery-final-closed-beta-jing-yuan-1",
+      "keywords": [
+        "pom-pom-gallery-final-closed-beta",
+        "jing-yuan-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-final-closed-beta-jing-yuan-2",
+      "name": "Jing Yuan 2",
+      "group": "Pom-Pom Gallery_ Final Closed Beta",
+      "path": "emojis/Pom-Pom Gallery_ Final Closed Beta/Jing Yuan 2.png",
+      "trigger": ":pom-pom-gallery-final-closed-beta-jing-yuan-2",
+      "keywords": [
+        "pom-pom-gallery-final-closed-beta",
+        "jing-yuan-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-final-closed-beta-luocha",
+      "name": "Luocha",
+      "group": "Pom-Pom Gallery_ Final Closed Beta",
+      "path": "emojis/Pom-Pom Gallery_ Final Closed Beta/Luocha.png",
+      "trigger": ":pom-pom-gallery-final-closed-beta-luocha",
+      "keywords": [
+        "pom-pom-gallery-final-closed-beta",
+        "luocha"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-final-closed-beta-qing-que",
+      "name": "Qing Que",
+      "group": "Pom-Pom Gallery_ Final Closed Beta",
+      "path": "emojis/Pom-Pom Gallery_ Final Closed Beta/Qing Que.png",
+      "trigger": ":pom-pom-gallery-final-closed-beta-qing-que",
+      "keywords": [
+        "pom-pom-gallery-final-closed-beta",
+        "qing-que"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-final-closed-beta-sushang",
+      "name": "Sushang",
+      "group": "Pom-Pom Gallery_ Final Closed Beta",
+      "path": "emojis/Pom-Pom Gallery_ Final Closed Beta/Sushang.png",
+      "trigger": ":pom-pom-gallery-final-closed-beta-sushang",
+      "keywords": [
+        "pom-pom-gallery-final-closed-beta",
+        "sushang"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-final-closed-beta-tingyun",
+      "name": "Tingyun",
+      "group": "Pom-Pom Gallery_ Final Closed Beta",
+      "path": "emojis/Pom-Pom Gallery_ Final Closed Beta/Tingyun.png",
+      "trigger": ":pom-pom-gallery-final-closed-beta-tingyun",
+      "keywords": [
+        "pom-pom-gallery-final-closed-beta",
+        "tingyun"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-final-closed-beta-trailblazer-female",
+      "name": "Trailblazer_female",
+      "group": "Pom-Pom Gallery_ Final Closed Beta",
+      "path": "emojis/Pom-Pom Gallery_ Final Closed Beta/Trailblazer_female.png",
+      "trigger": ":pom-pom-gallery-final-closed-beta-trailblazer-female",
+      "keywords": [
+        "pom-pom-gallery-final-closed-beta",
+        "trailblazer-female"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-final-closed-beta-trailblazer-male",
+      "name": "Trailblazer_male",
+      "group": "Pom-Pom Gallery_ Final Closed Beta",
+      "path": "emojis/Pom-Pom Gallery_ Final Closed Beta/Trailblazer_male.png",
+      "trigger": ":pom-pom-gallery-final-closed-beta-trailblazer-male",
+      "keywords": [
+        "pom-pom-gallery-final-closed-beta",
+        "trailblazer-male"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-final-closed-beta-yanqing-1",
+      "name": "Yanqing 1",
+      "group": "Pom-Pom Gallery_ Final Closed Beta",
+      "path": "emojis/Pom-Pom Gallery_ Final Closed Beta/Yanqing 1.png",
+      "trigger": ":pom-pom-gallery-final-closed-beta-yanqing-1",
+      "keywords": [
+        "pom-pom-gallery-final-closed-beta",
+        "yanqing-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-final-closed-beta-yanqing-2",
+      "name": "Yanqing 2",
+      "group": "Pom-Pom Gallery_ Final Closed Beta",
+      "path": "emojis/Pom-Pom Gallery_ Final Closed Beta/Yanqing 2.png",
+      "trigger": ":pom-pom-gallery-final-closed-beta-yanqing-2",
+      "keywords": [
+        "pom-pom-gallery-final-closed-beta",
+        "yanqing-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-final-closed-beta-yukong",
+      "name": "Yukong",
+      "group": "Pom-Pom Gallery_ Final Closed Beta",
+      "path": "emojis/Pom-Pom Gallery_ Final Closed Beta/Yukong.png",
+      "trigger": ":pom-pom-gallery-final-closed-beta-yukong",
+      "keywords": [
+        "pom-pom-gallery-final-closed-beta",
+        "yukong"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-bailu",
+      "name": "Bailu",
+      "group": "Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16",
+      "path": "emojis/Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16/Bailu.png",
+      "trigger": ":pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-bailu",
+      "keywords": [
+        "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16",
+        "bailu"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-cycrane",
+      "name": "Cycrane",
+      "group": "Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16",
+      "path": "emojis/Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16/Cycrane.png",
+      "trigger": ":pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-cycrane",
+      "keywords": [
+        "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16",
+        "cycrane"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-general-huaiyan",
+      "name": "General Huaiyan",
+      "group": "Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16",
+      "path": "emojis/Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16/General Huaiyan.png",
+      "trigger": ":pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-general-huaiyan",
+      "keywords": [
+        "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16",
+        "general-huaiyan"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-jiaoqiu-1",
+      "name": "Jiaoqiu 1",
+      "group": "Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16",
+      "path": "emojis/Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16/Jiaoqiu 1.png",
+      "trigger": ":pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-jiaoqiu-1",
+      "keywords": [
+        "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16",
+        "jiaoqiu-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-jiaoqiu-2",
+      "name": "Jiaoqiu 2",
+      "group": "Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16",
+      "path": "emojis/Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16/Jiaoqiu 2.png",
+      "trigger": ":pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-jiaoqiu-2",
+      "keywords": [
+        "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16",
+        "jiaoqiu-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-jiaoqiu-3",
+      "name": "Jiaoqiu 3",
+      "group": "Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16",
+      "path": "emojis/Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16/Jiaoqiu 3.png",
+      "trigger": ":pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-jiaoqiu-3",
+      "keywords": [
+        "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16",
+        "jiaoqiu-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-jiaoqiu-4",
+      "name": "Jiaoqiu 4",
+      "group": "Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16",
+      "path": "emojis/Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16/Jiaoqiu 4.png",
+      "trigger": ":pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-jiaoqiu-4",
+      "keywords": [
+        "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16",
+        "jiaoqiu-4"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-march-7th-1",
+      "name": "March 7th 1",
+      "group": "Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16",
+      "path": "emojis/Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16/March 7th 1.png",
+      "trigger": ":pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-march-7th-1",
+      "keywords": [
+        "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16",
+        "march-7th-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-march-7th-2",
+      "name": "March 7th 2",
+      "group": "Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16",
+      "path": "emojis/Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16/March 7th 2.png",
+      "trigger": ":pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-march-7th-2",
+      "keywords": [
+        "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16",
+        "march-7th-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-march-7th-3",
+      "name": "March 7th 3",
+      "group": "Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16",
+      "path": "emojis/Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16/March 7th 3.png",
+      "trigger": ":pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-march-7th-3",
+      "keywords": [
+        "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16",
+        "march-7th-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-sushang",
+      "name": "Sushang",
+      "group": "Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16",
+      "path": "emojis/Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16/Sushang.png",
+      "trigger": ":pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-sushang",
+      "keywords": [
+        "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16",
+        "sushang"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-yanqing",
+      "name": "Yanqing",
+      "group": "Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16",
+      "path": "emojis/Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16/Yanqing.png",
+      "trigger": ":pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-yanqing",
+      "keywords": [
+        "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16",
+        "yanqing"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-yunli-1",
+      "name": "Yunli 1",
+      "group": "Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16",
+      "path": "emojis/Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16/Yunli 1.png",
+      "trigger": ":pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-yunli-1",
+      "keywords": [
+        "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16",
+        "yunli-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-yunli-2",
+      "name": "Yunli 2",
+      "group": "Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16",
+      "path": "emojis/Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16/Yunli 2.png",
+      "trigger": ":pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-yunli-2",
+      "keywords": [
+        "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16",
+        "yunli-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-yunli-3",
+      "name": "Yunli 3",
+      "group": "Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16",
+      "path": "emojis/Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16/Yunli 3.png",
+      "trigger": ":pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-yunli-3",
+      "keywords": [
+        "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16",
+        "yunli-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-yunli-4",
+      "name": "Yunli 4",
+      "group": "Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16",
+      "path": "emojis/Pom-Pom Gallery - Finest Duel Under the Pristine Blue Set 16/Yunli 4.png",
+      "trigger": ":pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16-yunli-4",
+      "keywords": [
+        "pom-pom-gallery-finest-duel-under-the-pristine-blue-set-16",
+        "yunli-4"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-carmella",
+      "name": "Carmella",
+      "group": "Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17",
+      "path": "emojis/Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17/Carmella.png",
+      "trigger": ":pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-carmella",
+      "keywords": [
+        "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17",
+        "carmella"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-feixiao-1",
+      "name": "Feixiao 1",
+      "group": "Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17",
+      "path": "emojis/Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17/Feixiao 1.png",
+      "trigger": ":pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-feixiao-1",
+      "keywords": [
+        "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17",
+        "feixiao-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-feixiao-2",
+      "name": "Feixiao 2",
+      "group": "Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17",
+      "path": "emojis/Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17/Feixiao 2.png",
+      "trigger": ":pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-feixiao-2",
+      "keywords": [
+        "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17",
+        "feixiao-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-feixiao-3",
+      "name": "Feixiao 3",
+      "group": "Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17",
+      "path": "emojis/Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17/Feixiao 3.png",
+      "trigger": ":pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-feixiao-3",
+      "keywords": [
+        "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17",
+        "feixiao-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-feixiao-4",
+      "name": "Feixiao 4",
+      "group": "Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17",
+      "path": "emojis/Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17/Feixiao 4.png",
+      "trigger": ":pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-feixiao-4",
+      "keywords": [
+        "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17",
+        "feixiao-4"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-feixiao-inner-beast",
+      "name": "Feixiao Inner Beast",
+      "group": "Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17",
+      "path": "emojis/Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17/Feixiao Inner Beast.png",
+      "trigger": ":pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-feixiao-inner-beast",
+      "keywords": [
+        "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17",
+        "feixiao-inner-beast"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-fuyuan",
+      "name": "Fuyuan",
+      "group": "Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17",
+      "path": "emojis/Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17/Fuyuan.png",
+      "trigger": ":pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-fuyuan",
+      "keywords": [
+        "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17",
+        "fuyuan"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-lingsha-1",
+      "name": "Lingsha 1",
+      "group": "Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17",
+      "path": "emojis/Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17/Lingsha 1.png",
+      "trigger": ":pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-lingsha-1",
+      "keywords": [
+        "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17",
+        "lingsha-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-lingsha-2",
+      "name": "Lingsha 2",
+      "group": "Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17",
+      "path": "emojis/Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17/Lingsha 2.png",
+      "trigger": ":pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-lingsha-2",
+      "keywords": [
+        "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17",
+        "lingsha-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-lingsha-3",
+      "name": "Lingsha 3",
+      "group": "Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17",
+      "path": "emojis/Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17/Lingsha 3.png",
+      "trigger": ":pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-lingsha-3",
+      "keywords": [
+        "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17",
+        "lingsha-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-lingsha-4",
+      "name": "Lingsha 4",
+      "group": "Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17",
+      "path": "emojis/Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17/Lingsha 4.png",
+      "trigger": ":pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-lingsha-4",
+      "keywords": [
+        "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17",
+        "lingsha-4"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-moze-1",
+      "name": "Moze 1",
+      "group": "Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17",
+      "path": "emojis/Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17/Moze 1.png",
+      "trigger": ":pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-moze-1",
+      "keywords": [
+        "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17",
+        "moze-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-moze-2",
+      "name": "Moze 2",
+      "group": "Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17",
+      "path": "emojis/Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17/Moze 2.png",
+      "trigger": ":pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-moze-2",
+      "keywords": [
+        "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17",
+        "moze-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-moze-3",
+      "name": "Moze 3",
+      "group": "Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17",
+      "path": "emojis/Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17/Moze 3.png",
+      "trigger": ":pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-moze-3",
+      "keywords": [
+        "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17",
+        "moze-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-tuskpir",
+      "name": "Tuskpir",
+      "group": "Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17",
+      "path": "emojis/Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17/Tuskpir.png",
+      "trigger": ":pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-tuskpir",
+      "keywords": [
+        "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17",
+        "tuskpir"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-young-jing-yuan",
+      "name": "Young Jing Yuan",
+      "group": "Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17",
+      "path": "emojis/Pom-Pom Gallery - Flying Aureus Shot to Lupine Rue Set 17/Young Jing Yuan.png",
+      "trigger": ":pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17-young-jing-yuan",
+      "keywords": [
+        "pom-pom-gallery-flying-aureus-shot-to-lupine-rue-set-17",
+        "young-jing-yuan"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-if-one-dreams-at-midnight-black-swan-1",
+      "name": "Black Swan 1",
+      "group": "Pom-Pom Gallery _ If One Dreams At Midnight",
+      "path": "emojis/Pom-Pom Gallery _ If One Dreams At Midnight/Black Swan 1.png",
+      "trigger": ":pom-pom-gallery-if-one-dreams-at-midnight-black-swan-1",
+      "keywords": [
+        "pom-pom-gallery-if-one-dreams-at-midnight",
+        "black-swan-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-if-one-dreams-at-midnight-black-swan-2",
+      "name": "Black Swan 2",
+      "group": "Pom-Pom Gallery _ If One Dreams At Midnight",
+      "path": "emojis/Pom-Pom Gallery _ If One Dreams At Midnight/Black Swan 2.png",
+      "trigger": ":pom-pom-gallery-if-one-dreams-at-midnight-black-swan-2",
+      "keywords": [
+        "pom-pom-gallery-if-one-dreams-at-midnight",
+        "black-swan-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-if-one-dreams-at-midnight-black-swan-3",
+      "name": "Black Swan 3",
+      "group": "Pom-Pom Gallery _ If One Dreams At Midnight",
+      "path": "emojis/Pom-Pom Gallery _ If One Dreams At Midnight/Black Swan 3.png",
+      "trigger": ":pom-pom-gallery-if-one-dreams-at-midnight-black-swan-3",
+      "keywords": [
+        "pom-pom-gallery-if-one-dreams-at-midnight",
+        "black-swan-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-if-one-dreams-at-midnight-black-swan-4",
+      "name": "Black Swan 4",
+      "group": "Pom-Pom Gallery _ If One Dreams At Midnight",
+      "path": "emojis/Pom-Pom Gallery _ If One Dreams At Midnight/Black Swan 4.png",
+      "trigger": ":pom-pom-gallery-if-one-dreams-at-midnight-black-swan-4",
+      "keywords": [
+        "pom-pom-gallery-if-one-dreams-at-midnight",
+        "black-swan-4"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-if-one-dreams-at-midnight-cheers",
+      "name": "Cheers",
+      "group": "Pom-Pom Gallery _ If One Dreams At Midnight",
+      "path": "emojis/Pom-Pom Gallery _ If One Dreams At Midnight/Cheers.png",
+      "trigger": ":pom-pom-gallery-if-one-dreams-at-midnight-cheers",
+      "keywords": [
+        "pom-pom-gallery-if-one-dreams-at-midnight",
+        "cheers"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-if-one-dreams-at-midnight-clockie",
+      "name": "Clockie",
+      "group": "Pom-Pom Gallery _ If One Dreams At Midnight",
+      "path": "emojis/Pom-Pom Gallery _ If One Dreams At Midnight/Clockie.png",
+      "trigger": ":pom-pom-gallery-if-one-dreams-at-midnight-clockie",
+      "keywords": [
+        "pom-pom-gallery-if-one-dreams-at-midnight",
+        "clockie"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-if-one-dreams-at-midnight-misha-1",
+      "name": "Misha 1",
+      "group": "Pom-Pom Gallery _ If One Dreams At Midnight",
+      "path": "emojis/Pom-Pom Gallery _ If One Dreams At Midnight/Misha 1.png",
+      "trigger": ":pom-pom-gallery-if-one-dreams-at-midnight-misha-1",
+      "keywords": [
+        "pom-pom-gallery-if-one-dreams-at-midnight",
+        "misha-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-if-one-dreams-at-midnight-misha-2",
+      "name": "Misha 2",
+      "group": "Pom-Pom Gallery _ If One Dreams At Midnight",
+      "path": "emojis/Pom-Pom Gallery _ If One Dreams At Midnight/Misha 2.png",
+      "trigger": ":pom-pom-gallery-if-one-dreams-at-midnight-misha-2",
+      "keywords": [
+        "pom-pom-gallery-if-one-dreams-at-midnight",
+        "misha-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-if-one-dreams-at-midnight-misha-3",
+      "name": "Misha 3",
+      "group": "Pom-Pom Gallery _ If One Dreams At Midnight",
+      "path": "emojis/Pom-Pom Gallery _ If One Dreams At Midnight/Misha 3.png",
+      "trigger": ":pom-pom-gallery-if-one-dreams-at-midnight-misha-3",
+      "keywords": [
+        "pom-pom-gallery-if-one-dreams-at-midnight",
+        "misha-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-if-one-dreams-at-midnight-other",
+      "name": "Other",
+      "group": "Pom-Pom Gallery _ If One Dreams At Midnight",
+      "path": "emojis/Pom-Pom Gallery _ If One Dreams At Midnight/Other.png",
+      "trigger": ":pom-pom-gallery-if-one-dreams-at-midnight-other",
+      "keywords": [
+        "pom-pom-gallery-if-one-dreams-at-midnight",
+        "other"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-if-one-dreams-at-midnight-sampo",
+      "name": "Sampo",
+      "group": "Pom-Pom Gallery _ If One Dreams At Midnight",
+      "path": "emojis/Pom-Pom Gallery _ If One Dreams At Midnight/Sampo.png",
+      "trigger": ":pom-pom-gallery-if-one-dreams-at-midnight-sampo",
+      "keywords": [
+        "pom-pom-gallery-if-one-dreams-at-midnight",
+        "sampo"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-if-one-dreams-at-midnight-sparkle-1",
+      "name": "Sparkle 1",
+      "group": "Pom-Pom Gallery _ If One Dreams At Midnight",
+      "path": "emojis/Pom-Pom Gallery _ If One Dreams At Midnight/Sparkle 1.png",
+      "trigger": ":pom-pom-gallery-if-one-dreams-at-midnight-sparkle-1",
+      "keywords": [
+        "pom-pom-gallery-if-one-dreams-at-midnight",
+        "sparkle-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-if-one-dreams-at-midnight-sparkle-2",
+      "name": "Sparkle 2",
+      "group": "Pom-Pom Gallery _ If One Dreams At Midnight",
+      "path": "emojis/Pom-Pom Gallery _ If One Dreams At Midnight/Sparkle 2.png",
+      "trigger": ":pom-pom-gallery-if-one-dreams-at-midnight-sparkle-2",
+      "keywords": [
+        "pom-pom-gallery-if-one-dreams-at-midnight",
+        "sparkle-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-if-one-dreams-at-midnight-sparkle-3",
+      "name": "Sparkle 3",
+      "group": "Pom-Pom Gallery _ If One Dreams At Midnight",
+      "path": "emojis/Pom-Pom Gallery _ If One Dreams At Midnight/Sparkle 3.png",
+      "trigger": ":pom-pom-gallery-if-one-dreams-at-midnight-sparkle-3",
+      "keywords": [
+        "pom-pom-gallery-if-one-dreams-at-midnight",
+        "sparkle-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-if-one-dreams-at-midnight-sparkle-4",
+      "name": "Sparkle 4",
+      "group": "Pom-Pom Gallery _ If One Dreams At Midnight",
+      "path": "emojis/Pom-Pom Gallery _ If One Dreams At Midnight/Sparkle 4.png",
+      "trigger": ":pom-pom-gallery-if-one-dreams-at-midnight-sparkle-4",
+      "keywords": [
+        "pom-pom-gallery-if-one-dreams-at-midnight",
+        "sparkle-4"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-if-one-dreams-at-midnight-trash-can",
+      "name": "Trash Can",
+      "group": "Pom-Pom Gallery _ If One Dreams At Midnight",
+      "path": "emojis/Pom-Pom Gallery _ If One Dreams At Midnight/Trash Can.png",
+      "trigger": ":pom-pom-gallery-if-one-dreams-at-midnight-trash-can",
+      "keywords": [
+        "pom-pom-gallery-if-one-dreams-at-midnight",
+        "trash-can"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-jolted-awake-from-a-winter-dream-gepard",
+      "name": "Gepard",
+      "group": "Pom-Pom Gallery _ Jolted Awake From a Winter Dream",
+      "path": "emojis/Pom-Pom Gallery _ Jolted Awake From a Winter Dream/Gepard.png",
+      "trigger": ":pom-pom-gallery-jolted-awake-from-a-winter-dream-gepard",
+      "keywords": [
+        "pom-pom-gallery-jolted-awake-from-a-winter-dream",
+        "gepard"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-jolted-awake-from-a-winter-dream-guinaifen-1",
+      "name": "Guinaifen 1",
+      "group": "Pom-Pom Gallery _ Jolted Awake From a Winter Dream",
+      "path": "emojis/Pom-Pom Gallery _ Jolted Awake From a Winter Dream/Guinaifen 1.png",
+      "trigger": ":pom-pom-gallery-jolted-awake-from-a-winter-dream-guinaifen-1",
+      "keywords": [
+        "pom-pom-gallery-jolted-awake-from-a-winter-dream",
+        "guinaifen-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-jolted-awake-from-a-winter-dream-guinaifen-2",
+      "name": "Guinaifen 2",
+      "group": "Pom-Pom Gallery _ Jolted Awake From a Winter Dream",
+      "path": "emojis/Pom-Pom Gallery _ Jolted Awake From a Winter Dream/Guinaifen 2.png",
+      "trigger": ":pom-pom-gallery-jolted-awake-from-a-winter-dream-guinaifen-2",
+      "keywords": [
+        "pom-pom-gallery-jolted-awake-from-a-winter-dream",
+        "guinaifen-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-jolted-awake-from-a-winter-dream-guinaifen-3",
+      "name": "Guinaifen 3",
+      "group": "Pom-Pom Gallery _ Jolted Awake From a Winter Dream",
+      "path": "emojis/Pom-Pom Gallery _ Jolted Awake From a Winter Dream/Guinaifen 3.png",
+      "trigger": ":pom-pom-gallery-jolted-awake-from-a-winter-dream-guinaifen-3",
+      "keywords": [
+        "pom-pom-gallery-jolted-awake-from-a-winter-dream",
+        "guinaifen-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-jolted-awake-from-a-winter-dream-jingliu-1",
+      "name": "Jingliu 1",
+      "group": "Pom-Pom Gallery _ Jolted Awake From a Winter Dream",
+      "path": "emojis/Pom-Pom Gallery _ Jolted Awake From a Winter Dream/Jingliu 1.png",
+      "trigger": ":pom-pom-gallery-jolted-awake-from-a-winter-dream-jingliu-1",
+      "keywords": [
+        "pom-pom-gallery-jolted-awake-from-a-winter-dream",
+        "jingliu-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-jolted-awake-from-a-winter-dream-jingliu-2",
+      "name": "Jingliu 2",
+      "group": "Pom-Pom Gallery _ Jolted Awake From a Winter Dream",
+      "path": "emojis/Pom-Pom Gallery _ Jolted Awake From a Winter Dream/Jingliu 2.png",
+      "trigger": ":pom-pom-gallery-jolted-awake-from-a-winter-dream-jingliu-2",
+      "keywords": [
+        "pom-pom-gallery-jolted-awake-from-a-winter-dream",
+        "jingliu-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-jolted-awake-from-a-winter-dream-jingliu-3",
+      "name": "Jingliu 3",
+      "group": "Pom-Pom Gallery _ Jolted Awake From a Winter Dream",
+      "path": "emojis/Pom-Pom Gallery _ Jolted Awake From a Winter Dream/Jingliu 3.png",
+      "trigger": ":pom-pom-gallery-jolted-awake-from-a-winter-dream-jingliu-3",
+      "keywords": [
+        "pom-pom-gallery-jolted-awake-from-a-winter-dream",
+        "jingliu-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-jolted-awake-from-a-winter-dream-jingliu-4",
+      "name": "Jingliu 4",
+      "group": "Pom-Pom Gallery _ Jolted Awake From a Winter Dream",
+      "path": "emojis/Pom-Pom Gallery _ Jolted Awake From a Winter Dream/Jingliu 4.png",
+      "trigger": ":pom-pom-gallery-jolted-awake-from-a-winter-dream-jingliu-4",
+      "keywords": [
+        "pom-pom-gallery-jolted-awake-from-a-winter-dream",
+        "jingliu-4"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-jolted-awake-from-a-winter-dream-qingque",
+      "name": "Qingque",
+      "group": "Pom-Pom Gallery _ Jolted Awake From a Winter Dream",
+      "path": "emojis/Pom-Pom Gallery _ Jolted Awake From a Winter Dream/Qingque.png",
+      "trigger": ":pom-pom-gallery-jolted-awake-from-a-winter-dream-qingque",
+      "keywords": [
+        "pom-pom-gallery-jolted-awake-from-a-winter-dream",
+        "qingque"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-jolted-awake-from-a-winter-dream-sampo",
+      "name": "Sampo",
+      "group": "Pom-Pom Gallery _ Jolted Awake From a Winter Dream",
+      "path": "emojis/Pom-Pom Gallery _ Jolted Awake From a Winter Dream/Sampo.png",
+      "trigger": ":pom-pom-gallery-jolted-awake-from-a-winter-dream-sampo",
+      "keywords": [
+        "pom-pom-gallery-jolted-awake-from-a-winter-dream",
+        "sampo"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-jolted-awake-from-a-winter-dream-sushang",
+      "name": "Sushang",
+      "group": "Pom-Pom Gallery _ Jolted Awake From a Winter Dream",
+      "path": "emojis/Pom-Pom Gallery _ Jolted Awake From a Winter Dream/Sushang.png",
+      "trigger": ":pom-pom-gallery-jolted-awake-from-a-winter-dream-sushang",
+      "keywords": [
+        "pom-pom-gallery-jolted-awake-from-a-winter-dream",
+        "sushang"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-jolted-awake-from-a-winter-dream-tingyun",
+      "name": "Tingyun",
+      "group": "Pom-Pom Gallery _ Jolted Awake From a Winter Dream",
+      "path": "emojis/Pom-Pom Gallery _ Jolted Awake From a Winter Dream/Tingyun.png",
+      "trigger": ":pom-pom-gallery-jolted-awake-from-a-winter-dream-tingyun",
+      "keywords": [
+        "pom-pom-gallery-jolted-awake-from-a-winter-dream",
+        "tingyun"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-jolted-awake-from-a-winter-dream-topaz-1",
+      "name": "Topaz 1",
+      "group": "Pom-Pom Gallery _ Jolted Awake From a Winter Dream",
+      "path": "emojis/Pom-Pom Gallery _ Jolted Awake From a Winter Dream/Topaz 1.png",
+      "trigger": ":pom-pom-gallery-jolted-awake-from-a-winter-dream-topaz-1",
+      "keywords": [
+        "pom-pom-gallery-jolted-awake-from-a-winter-dream",
+        "topaz-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-jolted-awake-from-a-winter-dream-topaz-2",
+      "name": "Topaz 2",
+      "group": "Pom-Pom Gallery _ Jolted Awake From a Winter Dream",
+      "path": "emojis/Pom-Pom Gallery _ Jolted Awake From a Winter Dream/Topaz 2.png",
+      "trigger": ":pom-pom-gallery-jolted-awake-from-a-winter-dream-topaz-2",
+      "keywords": [
+        "pom-pom-gallery-jolted-awake-from-a-winter-dream",
+        "topaz-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-jolted-awake-from-a-winter-dream-topaz-3",
+      "name": "Topaz 3",
+      "group": "Pom-Pom Gallery _ Jolted Awake From a Winter Dream",
+      "path": "emojis/Pom-Pom Gallery _ Jolted Awake From a Winter Dream/Topaz 3.png",
+      "trigger": ":pom-pom-gallery-jolted-awake-from-a-winter-dream-topaz-3",
+      "keywords": [
+        "pom-pom-gallery-jolted-awake-from-a-winter-dream",
+        "topaz-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-jolted-awake-from-a-winter-dream-topaz-4",
+      "name": "Topaz 4",
+      "group": "Pom-Pom Gallery _ Jolted Awake From a Winter Dream",
+      "path": "emojis/Pom-Pom Gallery _ Jolted Awake From a Winter Dream/Topaz 4.png",
+      "trigger": ":pom-pom-gallery-jolted-awake-from-a-winter-dream-topaz-4",
+      "keywords": [
+        "pom-pom-gallery-jolted-awake-from-a-winter-dream",
+        "topaz-4"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-march-7th-march-7th-1",
+      "name": "March 7th_1",
+      "group": "Pom-Pom Gallery - March 7th",
+      "path": "emojis/Pom-Pom Gallery - March 7th/March 7th_1.png",
+      "trigger": ":pom-pom-gallery-march-7th-march-7th-1",
+      "keywords": [
+        "pom-pom-gallery-march-7th",
+        "march-7th-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-march-7th-march-7th-10",
+      "name": "March 7th_10",
+      "group": "Pom-Pom Gallery - March 7th",
+      "path": "emojis/Pom-Pom Gallery - March 7th/March 7th_10.png",
+      "trigger": ":pom-pom-gallery-march-7th-march-7th-10",
+      "keywords": [
+        "pom-pom-gallery-march-7th",
+        "march-7th-10"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-march-7th-march-7th-11",
+      "name": "March 7th_11",
+      "group": "Pom-Pom Gallery - March 7th",
+      "path": "emojis/Pom-Pom Gallery - March 7th/March 7th_11.png",
+      "trigger": ":pom-pom-gallery-march-7th-march-7th-11",
+      "keywords": [
+        "pom-pom-gallery-march-7th",
+        "march-7th-11"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-march-7th-march-7th-12",
+      "name": "March 7th_12",
+      "group": "Pom-Pom Gallery - March 7th",
+      "path": "emojis/Pom-Pom Gallery - March 7th/March 7th_12.png",
+      "trigger": ":pom-pom-gallery-march-7th-march-7th-12",
+      "keywords": [
+        "pom-pom-gallery-march-7th",
+        "march-7th-12"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-march-7th-march-7th-13",
+      "name": "March 7th_13",
+      "group": "Pom-Pom Gallery - March 7th",
+      "path": "emojis/Pom-Pom Gallery - March 7th/March 7th_13.png",
+      "trigger": ":pom-pom-gallery-march-7th-march-7th-13",
+      "keywords": [
+        "pom-pom-gallery-march-7th",
+        "march-7th-13"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-march-7th-march-7th-14",
+      "name": "March 7th_14",
+      "group": "Pom-Pom Gallery - March 7th",
+      "path": "emojis/Pom-Pom Gallery - March 7th/March 7th_14.png",
+      "trigger": ":pom-pom-gallery-march-7th-march-7th-14",
+      "keywords": [
+        "pom-pom-gallery-march-7th",
+        "march-7th-14"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-march-7th-march-7th-15",
+      "name": "March 7th_15",
+      "group": "Pom-Pom Gallery - March 7th",
+      "path": "emojis/Pom-Pom Gallery - March 7th/March 7th_15.png",
+      "trigger": ":pom-pom-gallery-march-7th-march-7th-15",
+      "keywords": [
+        "pom-pom-gallery-march-7th",
+        "march-7th-15"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-march-7th-march-7th-16",
+      "name": "March 7th_16",
+      "group": "Pom-Pom Gallery - March 7th",
+      "path": "emojis/Pom-Pom Gallery - March 7th/March 7th_16.png",
+      "trigger": ":pom-pom-gallery-march-7th-march-7th-16",
+      "keywords": [
+        "pom-pom-gallery-march-7th",
+        "march-7th-16"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-march-7th-march-7th-2",
+      "name": "March 7th_2",
+      "group": "Pom-Pom Gallery - March 7th",
+      "path": "emojis/Pom-Pom Gallery - March 7th/March 7th_2.png",
+      "trigger": ":pom-pom-gallery-march-7th-march-7th-2",
+      "keywords": [
+        "pom-pom-gallery-march-7th",
+        "march-7th-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-march-7th-march-7th-3",
+      "name": "March 7th_3",
+      "group": "Pom-Pom Gallery - March 7th",
+      "path": "emojis/Pom-Pom Gallery - March 7th/March 7th_3.png",
+      "trigger": ":pom-pom-gallery-march-7th-march-7th-3",
+      "keywords": [
+        "pom-pom-gallery-march-7th",
+        "march-7th-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-march-7th-march-7th-4",
+      "name": "March 7th_4",
+      "group": "Pom-Pom Gallery - March 7th",
+      "path": "emojis/Pom-Pom Gallery - March 7th/March 7th_4.png",
+      "trigger": ":pom-pom-gallery-march-7th-march-7th-4",
+      "keywords": [
+        "pom-pom-gallery-march-7th",
+        "march-7th-4"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-march-7th-march-7th-5",
+      "name": "March 7th_5",
+      "group": "Pom-Pom Gallery - March 7th",
+      "path": "emojis/Pom-Pom Gallery - March 7th/March 7th_5.png",
+      "trigger": ":pom-pom-gallery-march-7th-march-7th-5",
+      "keywords": [
+        "pom-pom-gallery-march-7th",
+        "march-7th-5"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-march-7th-march-7th-6",
+      "name": "March 7th_6",
+      "group": "Pom-Pom Gallery - March 7th",
+      "path": "emojis/Pom-Pom Gallery - March 7th/March 7th_6.png",
+      "trigger": ":pom-pom-gallery-march-7th-march-7th-6",
+      "keywords": [
+        "pom-pom-gallery-march-7th",
+        "march-7th-6"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-march-7th-march-7th-7",
+      "name": "March 7th_7",
+      "group": "Pom-Pom Gallery - March 7th",
+      "path": "emojis/Pom-Pom Gallery - March 7th/March 7th_7.png",
+      "trigger": ":pom-pom-gallery-march-7th-march-7th-7",
+      "keywords": [
+        "pom-pom-gallery-march-7th",
+        "march-7th-7"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-march-7th-march-7th-8",
+      "name": "March 7th_8",
+      "group": "Pom-Pom Gallery - March 7th",
+      "path": "emojis/Pom-Pom Gallery - March 7th/March 7th_8.png",
+      "trigger": ":pom-pom-gallery-march-7th-march-7th-8",
+      "keywords": [
+        "pom-pom-gallery-march-7th",
+        "march-7th-8"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-march-7th-march-7th-9",
+      "name": "March 7th_9",
+      "group": "Pom-Pom Gallery - March 7th",
+      "path": "emojis/Pom-Pom Gallery - March 7th/March 7th_9.png",
+      "trigger": ":pom-pom-gallery-march-7th-march-7th-9",
+      "keywords": [
+        "pom-pom-gallery-march-7th",
+        "march-7th-9"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-pom-pom-pom-pom-1",
+      "name": "Pom-Pom 1",
+      "group": "Pom-Pom Gallery - Pom-Pom",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/Pom-Pom 1.png",
+      "trigger": ":pom-pom-gallery-pom-pom-pom-pom-1",
+      "keywords": [
+        "pom-pom-gallery-pom-pom",
+        "pom-pom-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-pom-pom-pom-pom-10",
+      "name": "Pom-Pom 10",
+      "group": "Pom-Pom Gallery - Pom-Pom",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/Pom-Pom 10.png",
+      "trigger": ":pom-pom-gallery-pom-pom-pom-pom-10",
+      "keywords": [
+        "pom-pom-gallery-pom-pom",
+        "pom-pom-10"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-pom-pom-pom-pom-2",
+      "name": "Pom-Pom 2",
+      "group": "Pom-Pom Gallery - Pom-Pom",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/Pom-Pom 2.png",
+      "trigger": ":pom-pom-gallery-pom-pom-pom-pom-2",
+      "keywords": [
+        "pom-pom-gallery-pom-pom",
+        "pom-pom-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-pom-pom-pom-pom-3",
+      "name": "Pom-Pom 3",
+      "group": "Pom-Pom Gallery - Pom-Pom",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/Pom-Pom 3.png",
+      "trigger": ":pom-pom-gallery-pom-pom-pom-pom-3",
+      "keywords": [
+        "pom-pom-gallery-pom-pom",
+        "pom-pom-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-pom-pom-pom-pom-4",
+      "name": "Pom-Pom 4",
+      "group": "Pom-Pom Gallery - Pom-Pom",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/Pom-Pom 4.png",
+      "trigger": ":pom-pom-gallery-pom-pom-pom-pom-4",
+      "keywords": [
+        "pom-pom-gallery-pom-pom",
+        "pom-pom-4"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-pom-pom-pom-pom-5",
+      "name": "Pom-Pom 5",
+      "group": "Pom-Pom Gallery - Pom-Pom",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/Pom-Pom 5.png",
+      "trigger": ":pom-pom-gallery-pom-pom-pom-pom-5",
+      "keywords": [
+        "pom-pom-gallery-pom-pom",
+        "pom-pom-5"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-pom-pom-pom-pom-6",
+      "name": "Pom-Pom 6",
+      "group": "Pom-Pom Gallery - Pom-Pom",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/Pom-Pom 6.png",
+      "trigger": ":pom-pom-gallery-pom-pom-pom-pom-6",
+      "keywords": [
+        "pom-pom-gallery-pom-pom",
+        "pom-pom-6"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-pom-pom-pom-pom-7",
+      "name": "Pom-Pom 7",
+      "group": "Pom-Pom Gallery - Pom-Pom",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/Pom-Pom 7.png",
+      "trigger": ":pom-pom-gallery-pom-pom-pom-pom-7",
+      "keywords": [
+        "pom-pom-gallery-pom-pom",
+        "pom-pom-7"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-pom-pom-pom-pom-8",
+      "name": "Pom-Pom 8",
+      "group": "Pom-Pom Gallery - Pom-Pom",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/Pom-Pom 8.png",
+      "trigger": ":pom-pom-gallery-pom-pom-pom-pom-8",
+      "keywords": [
+        "pom-pom-gallery-pom-pom",
+        "pom-pom-8"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-pom-pom-pom-pom-9",
+      "name": "Pom-Pom 9",
+      "group": "Pom-Pom Gallery - Pom-Pom",
+      "path": "emojis/Pom-Pom Gallery - Pom-Pom/Pom-Pom 9.png",
+      "trigger": ":pom-pom-gallery-pom-pom-pom-pom-9",
+      "keywords": [
+        "pom-pom-gallery-pom-pom",
+        "pom-pom-9"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-second-closed-beta-1-arlan",
+      "name": "1_Arlan",
+      "group": "Pom-Pom Gallery - Second Closed Beta",
+      "path": "emojis/Pom-Pom Gallery - Second Closed Beta/1_Arlan.png",
+      "trigger": ":pom-pom-gallery-second-closed-beta-1-arlan",
+      "keywords": [
+        "pom-pom-gallery-second-closed-beta",
+        "1-arlan"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-second-closed-beta-10-male-mc",
+      "name": "10_Male MC",
+      "group": "Pom-Pom Gallery - Second Closed Beta",
+      "path": "emojis/Pom-Pom Gallery - Second Closed Beta/10_Male MC.png",
+      "trigger": ":pom-pom-gallery-second-closed-beta-10-male-mc",
+      "keywords": [
+        "pom-pom-gallery-second-closed-beta",
+        "10-male-mc"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-second-closed-beta-11-female-mc",
+      "name": "11_Female MC",
+      "group": "Pom-Pom Gallery - Second Closed Beta",
+      "path": "emojis/Pom-Pom Gallery - Second Closed Beta/11_Female MC.png",
+      "trigger": ":pom-pom-gallery-second-closed-beta-11-female-mc",
+      "keywords": [
+        "pom-pom-gallery-second-closed-beta",
+        "11-female-mc"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-second-closed-beta-12-pela",
+      "name": "12_Pela",
+      "group": "Pom-Pom Gallery - Second Closed Beta",
+      "path": "emojis/Pom-Pom Gallery - Second Closed Beta/12_Pela.png",
+      "trigger": ":pom-pom-gallery-second-closed-beta-12-pela",
+      "keywords": [
+        "pom-pom-gallery-second-closed-beta",
+        "12-pela"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-second-closed-beta-13-sampo",
+      "name": "13_Sampo",
+      "group": "Pom-Pom Gallery - Second Closed Beta",
+      "path": "emojis/Pom-Pom Gallery - Second Closed Beta/13_Sampo.png",
+      "trigger": ":pom-pom-gallery-second-closed-beta-13-sampo",
+      "keywords": [
+        "pom-pom-gallery-second-closed-beta",
+        "13-sampo"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-second-closed-beta-14-welt",
+      "name": "14_Welt",
+      "group": "Pom-Pom Gallery - Second Closed Beta",
+      "path": "emojis/Pom-Pom Gallery - Second Closed Beta/14_Welt.png",
+      "trigger": ":pom-pom-gallery-second-closed-beta-14-welt",
+      "keywords": [
+        "pom-pom-gallery-second-closed-beta",
+        "14-welt"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-second-closed-beta-15-serval",
+      "name": "15_Serval",
+      "group": "Pom-Pom Gallery - Second Closed Beta",
+      "path": "emojis/Pom-Pom Gallery - Second Closed Beta/15_Serval.png",
+      "trigger": ":pom-pom-gallery-second-closed-beta-15-serval",
+      "keywords": [
+        "pom-pom-gallery-second-closed-beta",
+        "15-serval"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-second-closed-beta-16-silver-wolf",
+      "name": "16_Silver Wolf",
+      "group": "Pom-Pom Gallery - Second Closed Beta",
+      "path": "emojis/Pom-Pom Gallery - Second Closed Beta/16_Silver Wolf.png",
+      "trigger": ":pom-pom-gallery-second-closed-beta-16-silver-wolf",
+      "keywords": [
+        "pom-pom-gallery-second-closed-beta",
+        "16-silver-wolf"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-second-closed-beta-2-asta",
+      "name": "2_Asta",
+      "group": "Pom-Pom Gallery - Second Closed Beta",
+      "path": "emojis/Pom-Pom Gallery - Second Closed Beta/2_Asta.png",
+      "trigger": ":pom-pom-gallery-second-closed-beta-2-asta",
+      "keywords": [
+        "pom-pom-gallery-second-closed-beta",
+        "2-asta"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-second-closed-beta-3-danheng",
+      "name": "3_Danheng",
+      "group": "Pom-Pom Gallery - Second Closed Beta",
+      "path": "emojis/Pom-Pom Gallery - Second Closed Beta/3_Danheng.png",
+      "trigger": ":pom-pom-gallery-second-closed-beta-3-danheng",
+      "keywords": [
+        "pom-pom-gallery-second-closed-beta",
+        "3-danheng"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-second-closed-beta-4-herta",
+      "name": "4_Herta",
+      "group": "Pom-Pom Gallery - Second Closed Beta",
+      "path": "emojis/Pom-Pom Gallery - Second Closed Beta/4_Herta.png",
+      "trigger": ":pom-pom-gallery-second-closed-beta-4-herta",
+      "keywords": [
+        "pom-pom-gallery-second-closed-beta",
+        "4-herta"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-second-closed-beta-5-hook",
+      "name": "5_Hook",
+      "group": "Pom-Pom Gallery - Second Closed Beta",
+      "path": "emojis/Pom-Pom Gallery - Second Closed Beta/5_Hook.png",
+      "trigger": ":pom-pom-gallery-second-closed-beta-5-hook",
+      "keywords": [
+        "pom-pom-gallery-second-closed-beta",
+        "5-hook"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-second-closed-beta-6-himeko",
+      "name": "6_Himeko",
+      "group": "Pom-Pom Gallery - Second Closed Beta",
+      "path": "emojis/Pom-Pom Gallery - Second Closed Beta/6_Himeko.png",
+      "trigger": ":pom-pom-gallery-second-closed-beta-6-himeko",
+      "keywords": [
+        "pom-pom-gallery-second-closed-beta",
+        "6-himeko"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-second-closed-beta-7-gepard",
+      "name": "7_Gepard",
+      "group": "Pom-Pom Gallery - Second Closed Beta",
+      "path": "emojis/Pom-Pom Gallery - Second Closed Beta/7_Gepard.png",
+      "trigger": ":pom-pom-gallery-second-closed-beta-7-gepard",
+      "keywords": [
+        "pom-pom-gallery-second-closed-beta",
+        "7-gepard"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-second-closed-beta-8-kafka",
+      "name": "8_Kafka",
+      "group": "Pom-Pom Gallery - Second Closed Beta",
+      "path": "emojis/Pom-Pom Gallery - Second Closed Beta/8_Kafka.png",
+      "trigger": ":pom-pom-gallery-second-closed-beta-8-kafka",
+      "keywords": [
+        "pom-pom-gallery-second-closed-beta",
+        "8-kafka"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-second-closed-beta-9-clara",
+      "name": "9_Clara",
+      "group": "Pom-Pom Gallery - Second Closed Beta",
+      "path": "emojis/Pom-Pom Gallery - Second Closed Beta/9_Clara.png",
+      "trigger": ":pom-pom-gallery-second-closed-beta-9-clara",
+      "keywords": [
+        "pom-pom-gallery-second-closed-beta",
+        "9-clara"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-then-wake-to-weep-stickers-boothill-1",
+      "name": "Boothill 1",
+      "group": "Pom-Pom Gallery｜Then Wake to Weep Stickers",
+      "path": "emojis/Pom-Pom Gallery｜Then Wake to Weep Stickers/Boothill 1.png",
+      "trigger": ":pom-pom-gallery-then-wake-to-weep-stickers-boothill-1",
+      "keywords": [
+        "pom-pom-gallery-then-wake-to-weep-stickers",
+        "boothill-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-then-wake-to-weep-stickers-boothill-2",
+      "name": "Boothill 2",
+      "group": "Pom-Pom Gallery｜Then Wake to Weep Stickers",
+      "path": "emojis/Pom-Pom Gallery｜Then Wake to Weep Stickers/Boothill 2.png",
+      "trigger": ":pom-pom-gallery-then-wake-to-weep-stickers-boothill-2",
+      "keywords": [
+        "pom-pom-gallery-then-wake-to-weep-stickers",
+        "boothill-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-then-wake-to-weep-stickers-boothill-3",
+      "name": "Boothill 3",
+      "group": "Pom-Pom Gallery｜Then Wake to Weep Stickers",
+      "path": "emojis/Pom-Pom Gallery｜Then Wake to Weep Stickers/Boothill 3.png",
+      "trigger": ":pom-pom-gallery-then-wake-to-weep-stickers-boothill-3",
+      "keywords": [
+        "pom-pom-gallery-then-wake-to-weep-stickers",
+        "boothill-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-then-wake-to-weep-stickers-boothill-4",
+      "name": "Boothill 4",
+      "group": "Pom-Pom Gallery｜Then Wake to Weep Stickers",
+      "path": "emojis/Pom-Pom Gallery｜Then Wake to Weep Stickers/Boothill 4.png",
+      "trigger": ":pom-pom-gallery-then-wake-to-weep-stickers-boothill-4",
+      "keywords": [
+        "pom-pom-gallery-then-wake-to-weep-stickers",
+        "boothill-4"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-then-wake-to-weep-stickers-caelus-harmony",
+      "name": "Caelus Harmony",
+      "group": "Pom-Pom Gallery｜Then Wake to Weep Stickers",
+      "path": "emojis/Pom-Pom Gallery｜Then Wake to Weep Stickers/Caelus Harmony.png",
+      "trigger": ":pom-pom-gallery-then-wake-to-weep-stickers-caelus-harmony",
+      "keywords": [
+        "pom-pom-gallery-then-wake-to-weep-stickers",
+        "caelus-harmony"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-then-wake-to-weep-stickers-crocodile",
+      "name": "Crocodile",
+      "group": "Pom-Pom Gallery｜Then Wake to Weep Stickers",
+      "path": "emojis/Pom-Pom Gallery｜Then Wake to Weep Stickers/Crocodile.png",
+      "trigger": ":pom-pom-gallery-then-wake-to-weep-stickers-crocodile",
+      "keywords": [
+        "pom-pom-gallery-then-wake-to-weep-stickers",
+        "crocodile"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-then-wake-to-weep-stickers-drunk-person-vomiting",
+      "name": "Drunk person vomiting",
+      "group": "Pom-Pom Gallery｜Then Wake to Weep Stickers",
+      "path": "emojis/Pom-Pom Gallery｜Then Wake to Weep Stickers/Drunk person vomiting.png",
+      "trigger": ":pom-pom-gallery-then-wake-to-weep-stickers-drunk-person-vomiting",
+      "keywords": [
+        "pom-pom-gallery-then-wake-to-weep-stickers",
+        "drunk-person-vomiting"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-then-wake-to-weep-stickers-march-7th",
+      "name": "March 7th",
+      "group": "Pom-Pom Gallery｜Then Wake to Weep Stickers",
+      "path": "emojis/Pom-Pom Gallery｜Then Wake to Weep Stickers/March 7th.png",
+      "trigger": ":pom-pom-gallery-then-wake-to-weep-stickers-march-7th",
+      "keywords": [
+        "pom-pom-gallery-then-wake-to-weep-stickers",
+        "march-7th"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-then-wake-to-weep-stickers-raccoon-1",
+      "name": "Raccoon 1",
+      "group": "Pom-Pom Gallery｜Then Wake to Weep Stickers",
+      "path": "emojis/Pom-Pom Gallery｜Then Wake to Weep Stickers/Raccoon 1.png",
+      "trigger": ":pom-pom-gallery-then-wake-to-weep-stickers-raccoon-1",
+      "keywords": [
+        "pom-pom-gallery-then-wake-to-weep-stickers",
+        "raccoon-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-then-wake-to-weep-stickers-raccoon-2",
+      "name": "Raccoon 2",
+      "group": "Pom-Pom Gallery｜Then Wake to Weep Stickers",
+      "path": "emojis/Pom-Pom Gallery｜Then Wake to Weep Stickers/Raccoon 2.png",
+      "trigger": ":pom-pom-gallery-then-wake-to-weep-stickers-raccoon-2",
+      "keywords": [
+        "pom-pom-gallery-then-wake-to-weep-stickers",
+        "raccoon-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-then-wake-to-weep-stickers-raccoon-3",
+      "name": "Raccoon 3",
+      "group": "Pom-Pom Gallery｜Then Wake to Weep Stickers",
+      "path": "emojis/Pom-Pom Gallery｜Then Wake to Weep Stickers/Raccoon 3.png",
+      "trigger": ":pom-pom-gallery-then-wake-to-weep-stickers-raccoon-3",
+      "keywords": [
+        "pom-pom-gallery-then-wake-to-weep-stickers",
+        "raccoon-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-then-wake-to-weep-stickers-robin-1",
+      "name": "Robin 1",
+      "group": "Pom-Pom Gallery｜Then Wake to Weep Stickers",
+      "path": "emojis/Pom-Pom Gallery｜Then Wake to Weep Stickers/Robin 1.png",
+      "trigger": ":pom-pom-gallery-then-wake-to-weep-stickers-robin-1",
+      "keywords": [
+        "pom-pom-gallery-then-wake-to-weep-stickers",
+        "robin-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-then-wake-to-weep-stickers-robin-2",
+      "name": "Robin 2",
+      "group": "Pom-Pom Gallery｜Then Wake to Weep Stickers",
+      "path": "emojis/Pom-Pom Gallery｜Then Wake to Weep Stickers/Robin 2.png",
+      "trigger": ":pom-pom-gallery-then-wake-to-weep-stickers-robin-2",
+      "keywords": [
+        "pom-pom-gallery-then-wake-to-weep-stickers",
+        "robin-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-then-wake-to-weep-stickers-robin-3",
+      "name": "Robin 3",
+      "group": "Pom-Pom Gallery｜Then Wake to Weep Stickers",
+      "path": "emojis/Pom-Pom Gallery｜Then Wake to Weep Stickers/Robin 3.png",
+      "trigger": ":pom-pom-gallery-then-wake-to-weep-stickers-robin-3",
+      "keywords": [
+        "pom-pom-gallery-then-wake-to-weep-stickers",
+        "robin-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-then-wake-to-weep-stickers-robin-4",
+      "name": "Robin 4",
+      "group": "Pom-Pom Gallery｜Then Wake to Weep Stickers",
+      "path": "emojis/Pom-Pom Gallery｜Then Wake to Weep Stickers/Robin 4.png",
+      "trigger": ":pom-pom-gallery-then-wake-to-weep-stickers-robin-4",
+      "keywords": [
+        "pom-pom-gallery-then-wake-to-weep-stickers",
+        "robin-4"
+      ]
+    },
+    {
+      "alias": "pom-pom-gallery-then-wake-to-weep-stickers-stelle-harmony",
+      "name": "Stelle Harmony",
+      "group": "Pom-Pom Gallery｜Then Wake to Weep Stickers",
+      "path": "emojis/Pom-Pom Gallery｜Then Wake to Weep Stickers/Stelle Harmony.png",
+      "trigger": ":pom-pom-gallery-then-wake-to-weep-stickers-stelle-harmony",
+      "keywords": [
+        "pom-pom-gallery-then-wake-to-weep-stickers",
+        "stelle-harmony"
+      ]
+    },
+    {
+      "alias": "pom-pom-stickers-set-1-pom-pom-1",
+      "name": "Pom-Pom 1",
+      "group": "Pom-Pom Stickers Set 1",
+      "path": "emojis/Pom-Pom Stickers Set 1/Pom-Pom 1.png",
+      "trigger": ":pom-pom-stickers-set-1-pom-pom-1",
+      "keywords": [
+        "pom-pom-stickers-set-1",
+        "pom-pom-1"
+      ]
+    },
+    {
+      "alias": "pom-pom-stickers-set-1-pom-pom-2",
+      "name": "Pom-Pom 2",
+      "group": "Pom-Pom Stickers Set 1",
+      "path": "emojis/Pom-Pom Stickers Set 1/Pom-Pom 2.png",
+      "trigger": ":pom-pom-stickers-set-1-pom-pom-2",
+      "keywords": [
+        "pom-pom-stickers-set-1",
+        "pom-pom-2"
+      ]
+    },
+    {
+      "alias": "pom-pom-stickers-set-1-pom-pom-3",
+      "name": "Pom-Pom 3",
+      "group": "Pom-Pom Stickers Set 1",
+      "path": "emojis/Pom-Pom Stickers Set 1/Pom-Pom 3.png",
+      "trigger": ":pom-pom-stickers-set-1-pom-pom-3",
+      "keywords": [
+        "pom-pom-stickers-set-1",
+        "pom-pom-3"
+      ]
+    },
+    {
+      "alias": "pom-pom-stickers-set-1-pom-pom-4",
+      "name": "Pom-Pom 4",
+      "group": "Pom-Pom Stickers Set 1",
+      "path": "emojis/Pom-Pom Stickers Set 1/Pom-Pom 4.png",
+      "trigger": ":pom-pom-stickers-set-1-pom-pom-4",
+      "keywords": [
+        "pom-pom-stickers-set-1",
+        "pom-pom-4"
+      ]
+    },
+    {
+      "alias": "pom-pom-stickers-set-1-pom-pom-5",
+      "name": "Pom-Pom 5",
+      "group": "Pom-Pom Stickers Set 1",
+      "path": "emojis/Pom-Pom Stickers Set 1/Pom-Pom 5.png",
+      "trigger": ":pom-pom-stickers-set-1-pom-pom-5",
+      "keywords": [
+        "pom-pom-stickers-set-1",
+        "pom-pom-5"
+      ]
+    },
+    {
+      "alias": "pom-pom-stickers-set-1-pom-pom-6",
+      "name": "Pom-Pom 6",
+      "group": "Pom-Pom Stickers Set 1",
+      "path": "emojis/Pom-Pom Stickers Set 1/Pom-Pom 6.png",
+      "trigger": ":pom-pom-stickers-set-1-pom-pom-6",
+      "keywords": [
+        "pom-pom-stickers-set-1",
+        "pom-pom-6"
+      ]
+    },
+    {
+      "alias": "pom-pom-stickers-set-1-pom-pom-7",
+      "name": "Pom-Pom 7",
+      "group": "Pom-Pom Stickers Set 1",
+      "path": "emojis/Pom-Pom Stickers Set 1/Pom-Pom 7.png",
+      "trigger": ":pom-pom-stickers-set-1-pom-pom-7",
+      "keywords": [
+        "pom-pom-stickers-set-1",
+        "pom-pom-7"
+      ]
+    }
+  ]
+}

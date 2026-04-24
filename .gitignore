@@ -1,0 +1,19 @@
+# Node dependencies
+app/node_modules/
+
+# Build outputs
+app/dist/
+
+# Logs
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Runtime user data
+app/user-emojis/
+app/imported-emojis.json

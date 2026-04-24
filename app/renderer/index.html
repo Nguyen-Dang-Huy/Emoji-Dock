@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Emoji System Picker</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Sora:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="bg-glow bg-glow-a"></div>
+    <div class="bg-glow bg-glow-b"></div>
+
+    <main class="shell">
+      <header class="head">
+        <div>
+          <h1>Emoji Dock</h1>
+          <p>Type :alias, or search then Enter to copy sticker image.</p>
+        </div>
+        <div class="head-actions">
+          <button id="settingsButton" title="Settings">settings</button>
+          <button id="quitButton" title="Quit app">quit</button>
+          <button id="closeButton" title="Close">x</button>
+        </div>
+      </header>
+
+      <section class="search-wrap">
+        <input id="searchInput" type="text" placeholder="Try :pom-pom or acheron" autocomplete="off" />
+      </section>
+
+      <section id="status" class="status">Loading emojis...</section>
+
+      <section class="quick-wrap" id="quickWrap">
+        <div class="quick-head">Favorites</div>
+        <div id="favoritesList" class="quick-list"></div>
+        <div class="quick-head">Recent</div>
+        <div id="recentList" class="quick-list"></div>
+      </section>
+
+      <section id="list" class="grid"></section>
+
+      <section id="pagination" class="pagination hidden">
+        <button id="prevPageBtn" type="button" disabled>← Previous</button>
+        <span id="pageInfo">Page 1</span>
+        <button id="nextPageBtn" type="button">Next →</button>
+      </section>
+
+      <section id="settingsModal" class="settings-modal hidden" aria-hidden="true">
+        <div class="settings-card">
+          <div class="settings-head">
+            <h2>Custom Aliases</h2>
+            <button id="settingsCloseButton" type="button">x</button>
+          </div>
+          <p class="settings-sub">Map short aliases to base aliases. Example: ff -> pom-pom-gallery-farewell-penacony-set-15-firefly-1</p>
+
+          <div id="settingsRows" class="settings-rows"></div>
+
+          <div class="settings-actions">
+            <button id="settingsImport" type="button">Import Emoji</button>
+            <button id="settingsAddRow" type="button">Add Row</button>
+            <button id="settingsClearImported" type="button">Clear Imported</button>
+            <button id="settingsSave" type="button">Save</button>
+          </div>
+          <div id="settingsStatus" class="status"></div>
+        </div>
+      </section>
+    </main>
+
+    <script src="./app.js" defer></script>
+  </body>
+</html>
